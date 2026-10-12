@@ -1,0 +1,3001 @@
+RollNo,Subject,Total Marks
+24EEE001,Power Systems,70
+24EEE001,Electrical Machines,78
+24EEE001,Control Systems,80
+24EEE001,Power Electronics,80
+24EEE001,Measurements,76
+23EEE001,Power Systems,57
+23EEE001,Electrical Machines,58
+23EEE001,Control Systems,62
+23EEE001,Power Electronics,56
+23EEE001,Measurements,62
+23ECE001,Signals and Systems,47
+23ECE001,Analog Circuits,52
+23ECE001,Digital Electronics,71
+23ECE001,Microprocessors,56
+23ECE001,EM Waves,42
+24MECH001,Thermodynamics,66
+24MECH001,Fluid Mechanics,
+24MECH001,Machine Design,61
+24MECH001,Manufacturing,54
+24MECH001,Kinematics,61
+25EEE001,Power Systems,76
+25EEE001,Electrical Machines,66
+25EEE001,Control Systems,72
+25EEE001,Power Electronics,68
+25EEE001,Measurements,70
+23EEE002,Power Systems,66
+23EEE002,Electrical Machines,56
+23EEE002,Control Systems,62
+23EEE002,Power Electronics,56
+23EEE002,Measurements,42
+24CSE001,Data Structures,55
+24CSE001,DBMS,67
+24CSE001,Operating Systems,58
+24CSE001,Computer Networks,63
+24CSE001,Software Engineering,54
+25EEE002,Power Systems,53
+25EEE002,Electrical Machines,57
+25EEE002,Control Systems,55
+25EEE002,Power Electronics,67
+25EEE002,Measurements,67
+25EEE003,Power Systems,53
+25EEE003,Electrical Machines,59
+25EEE003,Control Systems,63
+25EEE003,Power Electronics,61
+25EEE003,Measurements,63
+23EEE003,Power Systems,60
+23EEE003,Electrical Machines,61
+23EEE003,Control Systems,62
+23EEE003,Power Electronics,71
+23EEE003,Measurements,60
+24EEE002,Power Systems,57
+24EEE002,Electrical Machines,
+24EEE002,Control Systems,38
+24EEE002,Power Electronics,42
+24EEE002,Measurements,50
+25ECE001,Signals and Systems,65
+25ECE001,Analog Circuits,79
+25ECE001,Digital Electronics,72
+25ECE001,Microprocessors,70
+25ECE001,EM Waves,54
+25MECH001,Thermodynamics,50
+25MECH001,Fluid Mechanics,42
+25MECH001,Machine Design,55
+25MECH001,Manufacturing,
+25MECH001,Kinematics,44
+23ECE002,Signals and Systems,62
+23ECE002,Analog Circuits,70
+23ECE002,Digital Electronics,64
+23ECE002,Microprocessors,61
+23ECE002,EM Waves,73
+25CSE001,Data Structures,73
+25CSE001,DBMS,73
+25CSE001,Operating Systems,69
+25CSE001,Computer Networks,71
+25CSE001,Software Engineering,52
+23CSE001,Data Structures,88
+23CSE001,DBMS,72
+23CSE001,Operating Systems,74
+23CSE001,Computer Networks,79
+23CSE001,Software Engineering,78
+25CSE002,Data Structures,53
+25CSE002,DBMS,46
+25CSE002,Operating Systems,36
+25CSE002,Computer Networks,46
+25CSE002,Software Engineering,43
+23CSE002,Data Structures,52
+23CSE002,DBMS,64
+23CSE002,Operating Systems,62
+23CSE002,Computer Networks,70
+23CSE002,Software Engineering,62
+23CSE003,Data Structures,62
+23CSE003,DBMS,80
+23CSE003,Operating Systems,58
+23CSE003,Computer Networks,71
+23CSE003,Software Engineering,62
+23CSE004,Data Structures,58
+23CSE004,DBMS,43
+23CSE004,Operating Systems,66
+23CSE004,Computer Networks,77
+23CSE004,Software Engineering,70
+24ECE001,Signals and Systems,59
+24ECE001,Analog Circuits,59
+24ECE001,Digital Electronics,45
+24ECE001,Microprocessors,55
+24ECE001,EM Waves,50
+25CSE003,Data Structures,83
+25CSE003,DBMS,80
+25CSE003,Operating Systems,77
+25CSE003,Computer Networks,
+25CSE003,Software Engineering,73
+24ECE002,Signals and Systems,73
+24ECE002,Analog Circuits,70
+24ECE002,Digital Electronics,70
+24ECE002,Microprocessors,79
+24ECE002,EM Waves,69
+25EEE004,Power Systems,88
+25EEE004,Electrical Machines,80
+25EEE004,Control Systems,78
+25EEE004,Power Electronics,90
+25EEE004,Measurements,92
+25ECE002,Signals and Systems,49
+25ECE002,Analog Circuits,62
+25ECE002,Digital Electronics,57
+25ECE002,Microprocessors,42
+25ECE002,EM Waves,54
+23MECH001,Thermodynamics,60
+23MECH001,Fluid Mechanics,51
+23MECH001,Machine Design,51
+23MECH001,Manufacturing,53
+23MECH001,Kinematics,59
+24CSE002,Data Structures,85
+24CSE002,DBMS,73
+24CSE002,Operating Systems,84
+24CSE002,Computer Networks,87
+24CSE002,Software Engineering,93
+25CSE004,Data Structures,60
+25CSE004,DBMS,50
+25CSE004,Operating Systems,59
+25CSE004,Computer Networks,53
+25CSE004,Software Engineering,55
+23CSE005,Data Structures,64
+23CSE005,DBMS,71
+23CSE005,Operating Systems,64
+23CSE005,Computer Networks,85
+23CSE005,Software Engineering,72
+25CSE005,Data Structures,64
+25CSE005,DBMS,47
+25CSE005,Operating Systems,36
+25CSE005,Computer Networks,41
+25CSE005,Software Engineering,44
+23MECH002,Thermodynamics,67
+23MECH002,Fluid Mechanics,74
+23MECH002,Machine Design,73
+23MECH002,Manufacturing,70
+23MECH002,Kinematics,75
+25CSE006,Data Structures,84
+25CSE006,DBMS,86
+25CSE006,Operating Systems,77
+25CSE006,Computer Networks,84
+25CSE006,Software Engineering,94
+23CSE006,Data Structures,64
+23CSE006,DBMS,68
+23CSE006,Operating Systems,62
+23CSE006,Computer Networks,65
+23CSE006,Software Engineering,58
+25CSE007,Data Structures,63
+25CSE007,DBMS,78
+25CSE007,Operating Systems,67
+25CSE007,Computer Networks,71
+25CSE007,Software Engineering,78
+25CSE008,Data Structures,53
+25CSE008,DBMS,78
+25CSE008,Operating Systems,67
+25CSE008,Computer Networks,67
+25CSE008,Software Engineering,76
+24EEE003,Power Systems,42
+24EEE003,Electrical Machines,63
+24EEE003,Control Systems,49
+24EEE003,Power Electronics,60
+24EEE003,Measurements,53
+25CSE009,Data Structures,59
+25CSE009,DBMS,67
+25CSE009,Operating Systems,65
+25CSE009,Computer Networks,60
+25CSE009,Software Engineering,54
+23EEE004,Power Systems,59
+23EEE004,Electrical Machines,70
+23EEE004,Control Systems,52
+23EEE004,Power Electronics,59
+23EEE004,Measurements,38
+25ECE003,Signals and Systems,80
+25ECE003,Analog Circuits,73
+25ECE003,Digital Electronics,85
+25ECE003,Microprocessors,63
+25ECE003,EM Waves,64
+23MECH003,Thermodynamics,50
+23MECH003,Fluid Mechanics,36
+23MECH003,Machine Design,49
+23MECH003,Manufacturing,51
+23MECH003,Kinematics,48
+23MECH004,Thermodynamics,20
+23MECH004,Fluid Mechanics,47
+23MECH004,Machine Design,36
+23MECH004,Manufacturing,42
+23MECH004,Kinematics,47
+24ECE003,Signals and Systems,70
+24ECE003,Analog Circuits,44
+24ECE003,Digital Electronics,60
+24ECE003,Microprocessors,46
+24ECE003,EM Waves,39
+25CSE010,Data Structures,56
+25CSE010,DBMS,69
+25CSE010,Operating Systems,71
+25CSE010,Computer Networks,54
+25CSE010,Software Engineering,58
+25ECE004,Signals and Systems,77
+25ECE004,Analog Circuits,84
+25ECE004,Digital Electronics,71
+25ECE004,Microprocessors,64
+25ECE004,EM Waves,70
+25CSE011,Data Structures,69
+25CSE011,DBMS,57
+25CSE011,Operating Systems,44
+25CSE011,Computer Networks,56
+25CSE011,Software Engineering,64
+25CSE012,Data Structures,72
+25CSE012,DBMS,75
+25CSE012,Operating Systems,69
+25CSE012,Computer Networks,77
+25CSE012,Software Engineering,59
+23ECE003,Signals and Systems,45
+23ECE003,Analog Circuits,55
+23ECE003,Digital Electronics,75
+23ECE003,Microprocessors,77
+23ECE003,EM Waves,62
+24ECE004,Signals and Systems,57
+24ECE004,Analog Circuits,47
+24ECE004,Digital Electronics,62
+24ECE004,Microprocessors,69
+24ECE004,EM Waves,72
+25MECH002,Thermodynamics,63
+25MECH002,Fluid Mechanics,51
+25MECH002,Machine Design,67
+25MECH002,Manufacturing,65
+25MECH002,Kinematics,55
+24EEE004,Power Systems,43
+24EEE004,Electrical Machines,58
+24EEE004,Control Systems,59
+24EEE004,Power Electronics,59
+24EEE004,Measurements,57
+24MECH002,Thermodynamics,47
+24MECH002,Fluid Mechanics,66
+24MECH002,Machine Design,46
+24MECH002,Manufacturing,71
+24MECH002,Kinematics,66
+24ECE005,Signals and Systems,63
+24ECE005,Analog Circuits,77
+24ECE005,Digital Electronics,76
+24ECE005,Microprocessors,77
+24ECE005,EM Waves,83
+23CSE007,Data Structures,76
+23CSE007,DBMS,53
+23CSE007,Operating Systems,64
+23CSE007,Computer Networks,51
+23CSE007,Software Engineering,81
+24CSE003,Data Structures,74
+24CSE003,DBMS,83
+24CSE003,Operating Systems,93
+24CSE003,Computer Networks,79
+24CSE003,Software Engineering,100
+25ECE005,Signals and Systems,71
+25ECE005,Analog Circuits,69
+25ECE005,Digital Electronics,68
+25ECE005,Microprocessors,62
+25ECE005,EM Waves,66
+24CSE004,Data Structures,79
+24CSE004,DBMS,78
+24CSE004,Operating Systems,80
+24CSE004,Computer Networks,74
+24CSE004,Software Engineering,79
+23CSE008,Data Structures,63
+23CSE008,DBMS,67
+23CSE008,Operating Systems,60
+23CSE008,Computer Networks,72
+23CSE008,Software Engineering,54
+25MECH003,Thermodynamics,42
+25MECH003,Fluid Mechanics,50
+25MECH003,Machine Design,49
+25MECH003,Manufacturing,56
+25MECH003,Kinematics,63
+24ECE006,Signals and Systems,69
+24ECE006,Analog Circuits,56
+24ECE006,Digital Electronics,61
+24ECE006,Microprocessors,58
+24ECE006,EM Waves,44
+23ECE004,Signals and Systems,67
+23ECE004,Analog Circuits,63
+23ECE004,Digital Electronics,81
+23ECE004,Microprocessors,52
+23ECE004,EM Waves,72
+23ECE005,Signals and Systems,67
+23ECE005,Analog Circuits,71
+23ECE005,Digital Electronics,76
+23ECE005,Microprocessors,83
+23ECE005,EM Waves,71
+24CSE005,Data Structures,36
+24CSE005,DBMS,38
+24CSE005,Operating Systems,40
+24CSE005,Computer Networks,58
+24CSE005,Software Engineering,52
+24ECE007,Signals and Systems,77
+24ECE007,Analog Circuits,62
+24ECE007,Digital Electronics,78
+24ECE007,Microprocessors,78
+24ECE007,EM Waves,71
+24ECE008,Signals and Systems,88
+24ECE008,Analog Circuits,75
+24ECE008,Digital Electronics,97
+24ECE008,Microprocessors,82
+24ECE008,EM Waves,80
+24MECH003,Thermodynamics,48
+24MECH003,Fluid Mechanics,51
+24MECH003,Machine Design,41
+24MECH003,Manufacturing,48
+24MECH003,Kinematics,58
+23ECE006,Signals and Systems,52
+23ECE006,Analog Circuits,61
+23ECE006,Digital Electronics,47
+23ECE006,Microprocessors,49
+23ECE006,EM Waves,59
+23MECH005,Thermodynamics,44
+23MECH005,Fluid Mechanics,54
+23MECH005,Machine Design,37
+23MECH005,Manufacturing,40
+23MECH005,Kinematics,52
+25MECH004,Thermodynamics,64
+25MECH004,Fluid Mechanics,69
+25MECH004,Machine Design,64
+25MECH004,Manufacturing,75
+25MECH004,Kinematics,74
+25CSE013,Data Structures,75
+25CSE013,DBMS,58
+25CSE013,Operating Systems,71
+25CSE013,Computer Networks,71
+25CSE013,Software Engineering,60
+25CSE014,Data Structures,69
+25CSE014,DBMS,71
+25CSE014,Operating Systems,70
+25CSE014,Computer Networks,61
+25CSE014,Software Engineering,
+25MECH005,Thermodynamics,59
+25MECH005,Fluid Mechanics,67
+25MECH005,Machine Design,80
+25MECH005,Manufacturing,90
+25MECH005,Kinematics,85
+25MECH006,Thermodynamics,54
+25MECH006,Fluid Mechanics,54
+25MECH006,Machine Design,59
+25MECH006,Manufacturing,55
+25MECH006,Kinematics,59
+23CSE009,Data Structures,41
+23CSE009,DBMS,40
+23CSE009,Operating Systems,64
+23CSE009,Computer Networks,48
+23CSE009,Software Engineering,49
+25ECE006,Signals and Systems,59
+25ECE006,Analog Circuits,49
+25ECE006,Digital Electronics,52
+25ECE006,Microprocessors,50
+25ECE006,EM Waves,64
+25CSE015,Data Structures,48
+25CSE015,DBMS,56
+25CSE015,Operating Systems,51
+25CSE015,Computer Networks,68
+25CSE015,Software Engineering,46
+24ECE009,Signals and Systems,68
+24ECE009,Analog Circuits,67
+24ECE009,Digital Electronics,63
+24ECE009,Microprocessors,64
+24ECE009,EM Waves,59
+24EEE005,Power Systems,77
+24EEE005,Electrical Machines,73
+24EEE005,Control Systems,79
+24EEE005,Power Electronics,74
+24EEE005,Measurements,71
+25ECE007,Signals and Systems,63
+25ECE007,Analog Circuits,67
+25ECE007,Digital Electronics,68
+25ECE007,Microprocessors,65
+25ECE007,EM Waves,77
+24ECE010,Signals and Systems,68
+24ECE010,Analog Circuits,67
+24ECE010,Digital Electronics,70
+24ECE010,Microprocessors,84
+24ECE010,EM Waves,73
+25CSE016,Data Structures,71
+25CSE016,DBMS,72
+25CSE016,Operating Systems,65
+25CSE016,Computer Networks,72
+25CSE016,Software Engineering,83
+23ECE007,Signals and Systems,69
+23ECE007,Analog Circuits,57
+23ECE007,Digital Electronics,58
+23ECE007,Microprocessors,61
+23ECE007,EM Waves,54
+24ECE011,Signals and Systems,48
+24ECE011,Analog Circuits,48
+24ECE011,Digital Electronics,65
+24ECE011,Microprocessors,63
+24ECE011,EM Waves,66
+23MECH006,Thermodynamics,57
+23MECH006,Fluid Mechanics,38
+23MECH006,Machine Design,59
+23MECH006,Manufacturing,65
+23MECH006,Kinematics,55
+24MECH004,Thermodynamics,67
+24MECH004,Fluid Mechanics,85
+24MECH004,Machine Design,89
+24MECH004,Manufacturing,76
+24MECH004,Kinematics,90
+25CSE017,Data Structures,60
+25CSE017,DBMS,68
+25CSE017,Operating Systems,69
+25CSE017,Computer Networks,70
+25CSE017,Software Engineering,67
+23MECH007,Thermodynamics,66
+23MECH007,Fluid Mechanics,82
+23MECH007,Machine Design,86
+23MECH007,Manufacturing,80
+23MECH007,Kinematics,78
+23CSE010,Data Structures,88
+23CSE010,DBMS,83
+23CSE010,Operating Systems,100
+23CSE010,Computer Networks,80
+23CSE010,Software Engineering,86
+24EEE006,Power Systems,52
+24EEE006,Electrical Machines,48
+24EEE006,Control Systems,81
+24EEE006,Power Electronics,64
+24EEE006,Measurements,62
+25CSE018,Data Structures,75
+25CSE018,DBMS,84
+25CSE018,Operating Systems,70
+25CSE018,Computer Networks,80
+25CSE018,Software Engineering,60
+25MECH007,Thermodynamics,62
+25MECH007,Fluid Mechanics,68
+25MECH007,Machine Design,82
+25MECH007,Manufacturing,80
+25MECH007,Kinematics,64
+24ECE012,Signals and Systems,59
+24ECE012,Analog Circuits,62
+24ECE012,Digital Electronics,66
+24ECE012,Microprocessors,58
+24ECE012,EM Waves,58
+25CSE019,Data Structures,64
+25CSE019,DBMS,62
+25CSE019,Operating Systems,57
+25CSE019,Computer Networks,72
+25CSE019,Software Engineering,70
+23CSE011,Data Structures,71
+23CSE011,DBMS,69
+23CSE011,Operating Systems,50
+23CSE011,Computer Networks,56
+23CSE011,Software Engineering,73
+24CSE006,Data Structures,63
+24CSE006,DBMS,77
+24CSE006,Operating Systems,82
+24CSE006,Computer Networks,54
+24CSE006,Software Engineering,74
+23EEE005,Power Systems,58
+23EEE005,Electrical Machines,63
+23EEE005,Control Systems,51
+23EEE005,Power Electronics,59
+23EEE005,Measurements,66
+24CSE007,Data Structures,69
+24CSE007,DBMS,59
+24CSE007,Operating Systems,55
+24CSE007,Computer Networks,50
+24CSE007,Software Engineering,65
+25ECE008,Signals and Systems,64
+25ECE008,Analog Circuits,79
+25ECE008,Digital Electronics,70
+25ECE008,Microprocessors,74
+25ECE008,EM Waves,81
+25ECE009,Signals and Systems,57
+25ECE009,Analog Circuits,50
+25ECE009,Digital Electronics,57
+25ECE009,Microprocessors,52
+25ECE009,EM Waves,29
+23ECE008,Signals and Systems,75
+23ECE008,Analog Circuits,86
+23ECE008,Digital Electronics,67
+23ECE008,Microprocessors,92
+23ECE008,EM Waves,96
+23EEE006,Power Systems,70
+23EEE006,Electrical Machines,63
+23EEE006,Control Systems,72
+23EEE006,Power Electronics,71
+23EEE006,Measurements,45
+24ECE013,Signals and Systems,71
+24ECE013,Analog Circuits,67
+24ECE013,Digital Electronics,68
+24ECE013,Microprocessors,66
+24ECE013,EM Waves,67
+23EEE007,Power Systems,62
+23EEE007,Electrical Machines,54
+23EEE007,Control Systems,42
+23EEE007,Power Electronics,43
+23EEE007,Measurements,54
+23ECE009,Signals and Systems,61
+23ECE009,Analog Circuits,83
+23ECE009,Digital Electronics,70
+23ECE009,Microprocessors,78
+23ECE009,EM Waves,63
+24CSE008,Data Structures,43
+24CSE008,DBMS,50
+24CSE008,Operating Systems,55
+24CSE008,Computer Networks,50
+24CSE008,Software Engineering,56
+25CSE020,Data Structures,44
+25CSE020,DBMS,46
+25CSE020,Operating Systems,58
+25CSE020,Computer Networks,61
+25CSE020,Software Engineering,39
+23MECH008,Thermodynamics,78
+23MECH008,Fluid Mechanics,65
+23MECH008,Machine Design,63
+23MECH008,Manufacturing,78
+23MECH008,Kinematics,76
+25MECH008,Thermodynamics,59
+25MECH008,Fluid Mechanics,72
+25MECH008,Machine Design,59
+25MECH008,Manufacturing,57
+25MECH008,Kinematics,64
+23MECH009,Thermodynamics,47
+23MECH009,Fluid Mechanics,56
+23MECH009,Machine Design,52
+23MECH009,Manufacturing,54
+23MECH009,Kinematics,56
+24CSE009,Data Structures,42
+24CSE009,DBMS,51
+24CSE009,Operating Systems,63
+24CSE009,Computer Networks,61
+24CSE009,Software Engineering,52
+24CSE010,Data Structures,26
+24CSE010,DBMS,47
+24CSE010,Operating Systems,44
+24CSE010,Computer Networks,40
+24CSE010,Software Engineering,56
+25ECE010,Signals and Systems,77
+25ECE010,Analog Circuits,58
+25ECE010,Digital Electronics,77
+25ECE010,Microprocessors,57
+25ECE010,EM Waves,60
+25ECE011,Signals and Systems,92
+25ECE011,Analog Circuits,81
+25ECE011,Digital Electronics,91
+25ECE011,Microprocessors,100
+25ECE011,EM Waves,89
+24ECE014,Signals and Systems,62
+24ECE014,Analog Circuits,75
+24ECE014,Digital Electronics,82
+24ECE014,Microprocessors,56
+24ECE014,EM Waves,66
+25ECE012,Signals and Systems,56
+25ECE012,Analog Circuits,55
+25ECE012,Digital Electronics,61
+25ECE012,Microprocessors,55
+25ECE012,EM Waves,50
+23ECE010,Signals and Systems,72
+23ECE010,Analog Circuits,72
+23ECE010,Digital Electronics,77
+23ECE010,Microprocessors,70
+23ECE010,EM Waves,72
+25CSE021,Data Structures,98
+25CSE021,DBMS,99
+25CSE021,Operating Systems,98
+25CSE021,Computer Networks,100
+25CSE021,Software Engineering,91
+24ECE015,Signals and Systems,74
+24ECE015,Analog Circuits,82
+24ECE015,Digital Electronics,63
+24ECE015,Microprocessors,68
+24ECE015,EM Waves,89
+25ECE013,Signals and Systems,56
+25ECE013,Analog Circuits,58
+25ECE013,Digital Electronics,42
+25ECE013,Microprocessors,66
+25ECE013,EM Waves,46
+23CSE012,Data Structures,59
+23CSE012,DBMS,43
+23CSE012,Operating Systems,21
+23CSE012,Computer Networks,44
+23CSE012,Software Engineering,38
+24ECE016,Signals and Systems,87
+24ECE016,Analog Circuits,89
+24ECE016,Digital Electronics,75
+24ECE016,Microprocessors,73
+24ECE016,EM Waves,71
+23CSE013,Data Structures,62
+23CSE013,DBMS,54
+23CSE013,Operating Systems,53
+23CSE013,Computer Networks,55
+23CSE013,Software Engineering,66
+25CSE022,Data Structures,40
+25CSE022,DBMS,57
+25CSE022,Operating Systems,46
+25CSE022,Computer Networks,56
+25CSE022,Software Engineering,49
+24CSE011,Data Structures,62
+24CSE011,DBMS,53
+24CSE011,Operating Systems,45
+24CSE011,Computer Networks,60
+24CSE011,Software Engineering,61
+24CSE012,Data Structures,62
+24CSE012,DBMS,51
+24CSE012,Operating Systems,51
+24CSE012,Computer Networks,63
+24CSE012,Software Engineering,56
+24CSE013,Data Structures,65
+24CSE013,DBMS,61
+24CSE013,Operating Systems,69
+24CSE013,Computer Networks,62
+24CSE013,Software Engineering,67
+25MECH009,Thermodynamics,70
+25MECH009,Fluid Mechanics,81
+25MECH009,Machine Design,82
+25MECH009,Manufacturing,70
+25MECH009,Kinematics,72
+24CSE014,Data Structures,61
+24CSE014,DBMS,52
+24CSE014,Operating Systems,42
+24CSE014,Computer Networks,55
+24CSE014,Software Engineering,45
+25ECE014,Signals and Systems,58
+25ECE014,Analog Circuits,47
+25ECE014,Digital Electronics,62
+25ECE014,Microprocessors,59
+25ECE014,EM Waves,58
+24ECE017,Signals and Systems,79
+24ECE017,Analog Circuits,78
+24ECE017,Digital Electronics,89
+24ECE017,Microprocessors,74
+24ECE017,EM Waves,90
+24EEE007,Power Systems,77
+24EEE007,Electrical Machines,87
+24EEE007,Control Systems,75
+24EEE007,Power Electronics,71
+24EEE007,Measurements,78
+24CSE015,Data Structures,46
+24CSE015,DBMS,
+24CSE015,Operating Systems,56
+24CSE015,Computer Networks,71
+24CSE015,Software Engineering,79
+25EEE005,Power Systems,58
+25EEE005,Electrical Machines,67
+25EEE005,Control Systems,71
+25EEE005,Power Electronics,75
+25EEE005,Measurements,65
+25EEE006,Power Systems,54
+25EEE006,Electrical Machines,71
+25EEE006,Control Systems,41
+25EEE006,Power Electronics,64
+25EEE006,Measurements,47
+24MECH005,Thermodynamics,65
+24MECH005,Fluid Mechanics,64
+24MECH005,Machine Design,69
+24MECH005,Manufacturing,69
+24MECH005,Kinematics,80
+25ECE015,Signals and Systems,53
+25ECE015,Analog Circuits,44
+25ECE015,Digital Electronics,60
+25ECE015,Microprocessors,53
+25ECE015,EM Waves,47
+25MECH010,Thermodynamics,69
+25MECH010,Fluid Mechanics,74
+25MECH010,Machine Design,73
+25MECH010,Manufacturing,73
+25MECH010,Kinematics,78
+24ECE018,Signals and Systems,68
+24ECE018,Analog Circuits,77
+24ECE018,Digital Electronics,70
+24ECE018,Microprocessors,77
+24ECE018,EM Waves,63
+23EEE008,Power Systems,66
+23EEE008,Electrical Machines,59
+23EEE008,Control Systems,60
+23EEE008,Power Electronics,71
+23EEE008,Measurements,57
+24ECE019,Signals and Systems,61
+24ECE019,Analog Circuits,55
+24ECE019,Digital Electronics,57
+24ECE019,Microprocessors,75
+24ECE019,EM Waves,68
+23CSE014,Data Structures,71
+23CSE014,DBMS,56
+23CSE014,Operating Systems,70
+23CSE014,Computer Networks,82
+23CSE014,Software Engineering,69
+23EEE009,Power Systems,78
+23EEE009,Electrical Machines,72
+23EEE009,Control Systems,73
+23EEE009,Power Electronics,66
+23EEE009,Measurements,76
+24EEE008,Power Systems,52
+24EEE008,Electrical Machines,53
+24EEE008,Control Systems,35
+24EEE008,Power Electronics,48
+24EEE008,Measurements,50
+25CSE023,Data Structures,83
+25CSE023,DBMS,77
+25CSE023,Operating Systems,86
+25CSE023,Computer Networks,76
+25CSE023,Software Engineering,71
+23EEE010,Power Systems,71
+23EEE010,Electrical Machines,75
+23EEE010,Control Systems,74
+23EEE010,Power Electronics,74
+23EEE010,Measurements,63
+24ECE020,Signals and Systems,62
+24ECE020,Analog Circuits,53
+24ECE020,Digital Electronics,77
+24ECE020,Microprocessors,59
+24ECE020,EM Waves,71
+25CSE024,Data Structures,70
+25CSE024,DBMS,64
+25CSE024,Operating Systems,57
+25CSE024,Computer Networks,70
+25CSE024,Software Engineering,69
+25CSE025,Data Structures,54
+25CSE025,DBMS,57
+25CSE025,Operating Systems,58
+25CSE025,Computer Networks,44
+25CSE025,Software Engineering,57
+24CSE016,Data Structures,77
+24CSE016,DBMS,59
+24CSE016,Operating Systems,47
+24CSE016,Computer Networks,53
+24CSE016,Software Engineering,61
+24MECH006,Thermodynamics,49
+24MECH006,Fluid Mechanics,40
+24MECH006,Machine Design,45
+24MECH006,Manufacturing,53
+24MECH006,Kinematics,39
+23EEE011,Power Systems,69
+23EEE011,Electrical Machines,74
+23EEE011,Control Systems,64
+23EEE011,Power Electronics,67
+23EEE011,Measurements,52
+25CSE026,Data Structures,76
+25CSE026,DBMS,75
+25CSE026,Operating Systems,70
+25CSE026,Computer Networks,70
+25CSE026,Software Engineering,77
+24ECE021,Signals and Systems,55
+24ECE021,Analog Circuits,56
+24ECE021,Digital Electronics,55
+24ECE021,Microprocessors,70
+24ECE021,EM Waves,58
+23ECE011,Signals and Systems,57
+23ECE011,Analog Circuits,51
+23ECE011,Digital Electronics,54
+23ECE011,Microprocessors,50
+23ECE011,EM Waves,47
+25EEE007,Power Systems,47
+25EEE007,Electrical Machines,59
+25EEE007,Control Systems,51
+25EEE007,Power Electronics,61
+25EEE007,Measurements,51
+23CSE015,Data Structures,67
+23CSE015,DBMS,61
+23CSE015,Operating Systems,64
+23CSE015,Computer Networks,58
+23CSE015,Software Engineering,69
+23EEE012,Power Systems,88
+23EEE012,Electrical Machines,80
+23EEE012,Control Systems,90
+23EEE012,Power Electronics,85
+23EEE012,Measurements,86
+23CSE016,Data Structures,59
+23CSE016,DBMS,65
+23CSE016,Operating Systems,55
+23CSE016,Computer Networks,56
+23CSE016,Software Engineering,52
+24ECE022,Signals and Systems,57
+24ECE022,Analog Circuits,
+24ECE022,Digital Electronics,60
+24ECE022,Microprocessors,
+24ECE022,EM Waves,67
+23ECE012,Signals and Systems,63
+23ECE012,Analog Circuits,69
+23ECE012,Digital Electronics,76
+23ECE012,Microprocessors,70
+23ECE012,EM Waves,68
+25CSE027,Data Structures,64
+25CSE027,DBMS,
+25CSE027,Operating Systems,52
+25CSE027,Computer Networks,74
+25CSE027,Software Engineering,73
+24ECE023,Signals and Systems,44
+24ECE023,Analog Circuits,70
+24ECE023,Digital Electronics,42
+24ECE023,Microprocessors,
+24ECE023,EM Waves,48
+25ECE016,Signals and Systems,76
+25ECE016,Analog Circuits,
+25ECE016,Digital Electronics,67
+25ECE016,Microprocessors,69
+25ECE016,EM Waves,68
+24EEE009,Power Systems,75
+24EEE009,Electrical Machines,67
+24EEE009,Control Systems,72
+24EEE009,Power Electronics,62
+24EEE009,Measurements,82
+24ECE024,Signals and Systems,60
+24ECE024,Analog Circuits,55
+24ECE024,Digital Electronics,53
+24ECE024,Microprocessors,57
+24ECE024,EM Waves,58
+25ECE017,Signals and Systems,65
+25ECE017,Analog Circuits,66
+25ECE017,Digital Electronics,66
+25ECE017,Microprocessors,62
+25ECE017,EM Waves,66
+23CSE017,Data Structures,55
+23CSE017,DBMS,72
+23CSE017,Operating Systems,58
+23CSE017,Computer Networks,77
+23CSE017,Software Engineering,78
+24MECH007,Thermodynamics,77
+24MECH007,Fluid Mechanics,83
+24MECH007,Machine Design,63
+24MECH007,Manufacturing,84
+24MECH007,Kinematics,72
+23ECE013,Signals and Systems,61
+23ECE013,Analog Circuits,60
+23ECE013,Digital Electronics,61
+23ECE013,Microprocessors,55
+23ECE013,EM Waves,60
+23CSE018,Data Structures,67
+23CSE018,DBMS,63
+23CSE018,Operating Systems,42
+23CSE018,Computer Networks,67
+23CSE018,Software Engineering,67
+24MECH008,Thermodynamics,46
+24MECH008,Fluid Mechanics,59
+24MECH008,Machine Design,70
+24MECH008,Manufacturing,64
+24MECH008,Kinematics,57
+25CSE028,Data Structures,
+25CSE028,DBMS,
+25CSE028,Operating Systems,64
+25CSE028,Computer Networks,74
+25CSE028,Software Engineering,59
+25CSE029,Data Structures,53
+25CSE029,DBMS,41
+25CSE029,Operating Systems,48
+25CSE029,Computer Networks,45
+25CSE029,Software Engineering,60
+25CSE030,Data Structures,73
+25CSE030,DBMS,58
+25CSE030,Operating Systems,52
+25CSE030,Computer Networks,69
+25CSE030,Software Engineering,64
+24CSE017,Data Structures,40
+24CSE017,DBMS,46
+24CSE017,Operating Systems,40
+24CSE017,Computer Networks,58
+24CSE017,Software Engineering,50
+25ECE018,Signals and Systems,73
+25ECE018,Analog Circuits,77
+25ECE018,Digital Electronics,74
+25ECE018,Microprocessors,78
+25ECE018,EM Waves,89
+23ECE014,Signals and Systems,46
+23ECE014,Analog Circuits,74
+23ECE014,Digital Electronics,67
+23ECE014,Microprocessors,66
+23ECE014,EM Waves,71
+24CSE018,Data Structures,69
+24CSE018,DBMS,60
+24CSE018,Operating Systems,60
+24CSE018,Computer Networks,58
+24CSE018,Software Engineering,84
+23MECH010,Thermodynamics,54
+23MECH010,Fluid Mechanics,47
+23MECH010,Machine Design,45
+23MECH010,Manufacturing,53
+23MECH010,Kinematics,46
+24EEE010,Power Systems,50
+24EEE010,Electrical Machines,46
+24EEE010,Control Systems,54
+24EEE010,Power Electronics,45
+24EEE010,Measurements,54
+24CSE019,Data Structures,61
+24CSE019,DBMS,64
+24CSE019,Operating Systems,65
+24CSE019,Computer Networks,56
+24CSE019,Software Engineering,71
+25CSE031,Data Structures,59
+25CSE031,DBMS,51
+25CSE031,Operating Systems,50
+25CSE031,Computer Networks,53
+25CSE031,Software Engineering,52
+25EEE008,Power Systems,63
+25EEE008,Electrical Machines,53
+25EEE008,Control Systems,54
+25EEE008,Power Electronics,63
+25EEE008,Measurements,48
+24ECE025,Signals and Systems,43
+24ECE025,Analog Circuits,53
+24ECE025,Digital Electronics,65
+24ECE025,Microprocessors,52
+24ECE025,EM Waves,68
+25EEE009,Power Systems,64
+25EEE009,Electrical Machines,45
+25EEE009,Control Systems,59
+25EEE009,Power Electronics,52
+25EEE009,Measurements,60
+24CSE020,Data Structures,68
+24CSE020,DBMS,53
+24CSE020,Operating Systems,54
+24CSE020,Computer Networks,57
+24CSE020,Software Engineering,60
+23MECH011,Thermodynamics,69
+23MECH011,Fluid Mechanics,71
+23MECH011,Machine Design,68
+23MECH011,Manufacturing,65
+23MECH011,Kinematics,65
+24CSE021,Data Structures,71
+24CSE021,DBMS,74
+24CSE021,Operating Systems,62
+24CSE021,Computer Networks,74
+24CSE021,Software Engineering,59
+23EEE013,Power Systems,63
+23EEE013,Electrical Machines,57
+23EEE013,Control Systems,69
+23EEE013,Power Electronics,68
+23EEE013,Measurements,69
+24MECH009,Thermodynamics,67
+24MECH009,Fluid Mechanics,63
+24MECH009,Machine Design,66
+24MECH009,Manufacturing,58
+24MECH009,Kinematics,74
+24CSE022,Data Structures,56
+24CSE022,DBMS,70
+24CSE022,Operating Systems,52
+24CSE022,Computer Networks,55
+24CSE022,Software Engineering,62
+25EEE010,Power Systems,70
+25EEE010,Electrical Machines,77
+25EEE010,Control Systems,77
+25EEE010,Power Electronics,73
+25EEE010,Measurements,69
+23MECH012,Thermodynamics,57
+23MECH012,Fluid Mechanics,63
+23MECH012,Machine Design,66
+23MECH012,Manufacturing,59
+23MECH012,Kinematics,74
+25EEE011,Power Systems,46
+25EEE011,Electrical Machines,62
+25EEE011,Control Systems,56
+25EEE011,Power Electronics,69
+25EEE011,Measurements,67
+25CSE032,Data Structures,45
+25CSE032,DBMS,58
+25CSE032,Operating Systems,71
+25CSE032,Computer Networks,54
+25CSE032,Software Engineering,61
+25CSE033,Data Structures,71
+25CSE033,DBMS,84
+25CSE033,Operating Systems,65
+25CSE033,Computer Networks,72
+25CSE033,Software Engineering,78
+24EEE011,Power Systems,62
+24EEE011,Electrical Machines,56
+24EEE011,Control Systems,73
+24EEE011,Power Electronics,67
+24EEE011,Measurements,68
+25CSE034,Data Structures,49
+25CSE034,DBMS,58
+25CSE034,Operating Systems,85
+25CSE034,Computer Networks,54
+25CSE034,Software Engineering,68
+23ECE015,Signals and Systems,76
+23ECE015,Analog Circuits,73
+23ECE015,Digital Electronics,76
+23ECE015,Microprocessors,88
+23ECE015,EM Waves,69
+25ECE019,Signals and Systems,56
+25ECE019,Analog Circuits,53
+25ECE019,Digital Electronics,58
+25ECE019,Microprocessors,38
+25ECE019,EM Waves,55
+25CSE035,Data Structures,57
+25CSE035,DBMS,74
+25CSE035,Operating Systems,65
+25CSE035,Computer Networks,73
+25CSE035,Software Engineering,77
+25CSE036,Data Structures,39
+25CSE036,DBMS,42
+25CSE036,Operating Systems,46
+25CSE036,Computer Networks,48
+25CSE036,Software Engineering,50
+24MECH010,Thermodynamics,68
+24MECH010,Fluid Mechanics,71
+24MECH010,Machine Design,74
+24MECH010,Manufacturing,81
+24MECH010,Kinematics,73
+25ECE020,Signals and Systems,69
+25ECE020,Analog Circuits,62
+25ECE020,Digital Electronics,61
+25ECE020,Microprocessors,73
+25ECE020,EM Waves,65
+25ECE021,Signals and Systems,69
+25ECE021,Analog Circuits,69
+25ECE021,Digital Electronics,62
+25ECE021,Microprocessors,64
+25ECE021,EM Waves,64
+24CSE023,Data Structures,75
+24CSE023,DBMS,59
+24CSE023,Operating Systems,62
+24CSE023,Computer Networks,69
+24CSE023,Software Engineering,66
+25MECH011,Thermodynamics,50
+25MECH011,Fluid Mechanics,59
+25MECH011,Machine Design,34
+25MECH011,Manufacturing,54
+25MECH011,Kinematics,43
+23MECH013,Thermodynamics,64
+23MECH013,Fluid Mechanics,67
+23MECH013,Machine Design,70
+23MECH013,Manufacturing,76
+23MECH013,Kinematics,65
+25ECE022,Signals and Systems,62
+25ECE022,Analog Circuits,50
+25ECE022,Digital Electronics,53
+25ECE022,Microprocessors,48
+25ECE022,EM Waves,53
+24MECH011,Thermodynamics,55
+24MECH011,Fluid Mechanics,54
+24MECH011,Machine Design,55
+24MECH011,Manufacturing,58
+24MECH011,Kinematics,59
+25CSE037,Data Structures,89
+25CSE037,DBMS,81
+25CSE037,Operating Systems,86
+25CSE037,Computer Networks,90
+25CSE037,Software Engineering,90
+24ECE026,Signals and Systems,57
+24ECE026,Analog Circuits,82
+24ECE026,Digital Electronics,84
+24ECE026,Microprocessors,55
+24ECE026,EM Waves,76
+24CSE024,Data Structures,68
+24CSE024,DBMS,80
+24CSE024,Operating Systems,85
+24CSE024,Computer Networks,78
+24CSE024,Software Engineering,96
+24CSE025,Data Structures,49
+24CSE025,DBMS,64
+24CSE025,Operating Systems,62
+24CSE025,Computer Networks,59
+24CSE025,Software Engineering,76
+25CSE038,Data Structures,56
+25CSE038,DBMS,55
+25CSE038,Operating Systems,52
+25CSE038,Computer Networks,64
+25CSE038,Software Engineering,57
+24MECH012,Thermodynamics,79
+24MECH012,Fluid Mechanics,63
+24MECH012,Machine Design,78
+24MECH012,Manufacturing,86
+24MECH012,Kinematics,78
+24MECH013,Thermodynamics,64
+24MECH013,Fluid Mechanics,72
+24MECH013,Machine Design,65
+24MECH013,Manufacturing,69
+24MECH013,Kinematics,60
+23CSE019,Data Structures,35
+23CSE019,DBMS,48
+23CSE019,Operating Systems,22
+23CSE019,Computer Networks,42
+23CSE019,Software Engineering,32
+25EEE012,Power Systems,81
+25EEE012,Electrical Machines,60
+25EEE012,Control Systems,67
+25EEE012,Power Electronics,52
+25EEE012,Measurements,47
+23CSE020,Data Structures,33
+23CSE020,DBMS,49
+23CSE020,Operating Systems,52
+23CSE020,Computer Networks,36
+23CSE020,Software Engineering,30
+25MECH012,Thermodynamics,56
+25MECH012,Fluid Mechanics,57
+25MECH012,Machine Design,57
+25MECH012,Manufacturing,68
+25MECH012,Kinematics,45
+24ECE027,Signals and Systems,48
+24ECE027,Analog Circuits,37
+24ECE027,Digital Electronics,34
+24ECE027,Microprocessors,32
+24ECE027,EM Waves,32
+25ECE023,Signals and Systems,80
+25ECE023,Analog Circuits,64
+25ECE023,Digital Electronics,87
+25ECE023,Microprocessors,90
+25ECE023,EM Waves,72
+25MECH013,Thermodynamics,56
+25MECH013,Fluid Mechanics,73
+25MECH013,Machine Design,62
+25MECH013,Manufacturing,51
+25MECH013,Kinematics,67
+24EEE012,Power Systems,37
+24EEE012,Electrical Machines,46
+24EEE012,Control Systems,52
+24EEE012,Power Electronics,39
+24EEE012,Measurements,46
+25CSE039,Data Structures,73
+25CSE039,DBMS,70
+25CSE039,Operating Systems,60
+25CSE039,Computer Networks,66
+25CSE039,Software Engineering,68
+23ECE016,Signals and Systems,96
+23ECE016,Analog Circuits,90
+23ECE016,Digital Electronics,74
+23ECE016,Microprocessors,94
+23ECE016,EM Waves,79
+24ECE028,Signals and Systems,61
+24ECE028,Analog Circuits,50
+24ECE028,Digital Electronics,61
+24ECE028,Microprocessors,63
+24ECE028,EM Waves,64
+25MECH014,Thermodynamics,59
+25MECH014,Fluid Mechanics,52
+25MECH014,Machine Design,77
+25MECH014,Manufacturing,64
+25MECH014,Kinematics,80
+23MECH014,Thermodynamics,67
+23MECH014,Fluid Mechanics,83
+23MECH014,Machine Design,82
+23MECH014,Manufacturing,62
+23MECH014,Kinematics,66
+24MECH014,Thermodynamics,66
+24MECH014,Fluid Mechanics,44
+24MECH014,Machine Design,67
+24MECH014,Manufacturing,43
+24MECH014,Kinematics,55
+25CSE040,Data Structures,73
+25CSE040,DBMS,83
+25CSE040,Operating Systems,67
+25CSE040,Computer Networks,60
+25CSE040,Software Engineering,69
+23EEE014,Power Systems,72
+23EEE014,Electrical Machines,69
+23EEE014,Control Systems,66
+23EEE014,Power Electronics,69
+23EEE014,Measurements,72
+24EEE013,Power Systems,58
+24EEE013,Electrical Machines,56
+24EEE013,Control Systems,50
+24EEE013,Power Electronics,56
+24EEE013,Measurements,60
+24ECE029,Signals and Systems,62
+24ECE029,Analog Circuits,80
+24ECE029,Digital Electronics,49
+24ECE029,Microprocessors,64
+24ECE029,EM Waves,49
+23CSE021,Data Structures,59
+23CSE021,DBMS,43
+23CSE021,Operating Systems,50
+23CSE021,Computer Networks,44
+23CSE021,Software Engineering,53
+25CSE041,Data Structures,86
+25CSE041,DBMS,71
+25CSE041,Operating Systems,79
+25CSE041,Computer Networks,78
+25CSE041,Software Engineering,72
+25MECH015,Thermodynamics,68
+25MECH015,Fluid Mechanics,64
+25MECH015,Machine Design,62
+25MECH015,Manufacturing,77
+25MECH015,Kinematics,69
+23ECE017,Signals and Systems,70
+23ECE017,Analog Circuits,75
+23ECE017,Digital Electronics,96
+23ECE017,Microprocessors,70
+23ECE017,EM Waves,93
+23ECE018,Signals and Systems,89
+23ECE018,Analog Circuits,81
+23ECE018,Digital Electronics,79
+23ECE018,Microprocessors,77
+23ECE018,EM Waves,69
+23ECE019,Signals and Systems,46
+23ECE019,Analog Circuits,54
+23ECE019,Digital Electronics,62
+23ECE019,Microprocessors,64
+23ECE019,EM Waves,56
+24CSE026,Data Structures,51
+24CSE026,DBMS,32
+24CSE026,Operating Systems,45
+24CSE026,Computer Networks,54
+24CSE026,Software Engineering,64
+23CSE022,Data Structures,49
+23CSE022,DBMS,88
+23CSE022,Operating Systems,59
+23CSE022,Computer Networks,51
+23CSE022,Software Engineering,40
+24ECE030,Signals and Systems,41
+24ECE030,Analog Circuits,25
+24ECE030,Digital Electronics,39
+24ECE030,Microprocessors,52
+24ECE030,EM Waves,18
+24CSE027,Data Structures,74
+24CSE027,DBMS,75
+24CSE027,Operating Systems,85
+24CSE027,Computer Networks,63
+24CSE027,Software Engineering,85
+23ECE020,Signals and Systems,50
+23ECE020,Analog Circuits,62
+23ECE020,Digital Electronics,54
+23ECE020,Microprocessors,57
+23ECE020,EM Waves,51
+24EEE014,Power Systems,61
+24EEE014,Electrical Machines,64
+24EEE014,Control Systems,77
+24EEE014,Power Electronics,59
+24EEE014,Measurements,50
+23EEE015,Power Systems,43
+23EEE015,Electrical Machines,67
+23EEE015,Control Systems,59
+23EEE015,Power Electronics,53
+23EEE015,Measurements,57
+23ECE021,Signals and Systems,51
+23ECE021,Analog Circuits,59
+23ECE021,Digital Electronics,61
+23ECE021,Microprocessors,34
+23ECE021,EM Waves,50
+24CSE028,Data Structures,44
+24CSE028,DBMS,25
+24CSE028,Operating Systems,48
+24CSE028,Computer Networks,24
+24CSE028,Software Engineering,44
+25MECH016,Thermodynamics,98
+25MECH016,Fluid Mechanics,90
+25MECH016,Machine Design,89
+25MECH016,Manufacturing,71
+25MECH016,Kinematics,80
+23EEE016,Power Systems,67
+23EEE016,Electrical Machines,52
+23EEE016,Control Systems,54
+23EEE016,Power Electronics,60
+23EEE016,Measurements,57
+25CSE042,Data Structures,68
+25CSE042,DBMS,62
+25CSE042,Operating Systems,36
+25CSE042,Computer Networks,57
+25CSE042,Software Engineering,80
+23ECE022,Signals and Systems,56
+23ECE022,Analog Circuits,49
+23ECE022,Digital Electronics,50
+23ECE022,Microprocessors,54
+23ECE022,EM Waves,63
+24CSE029,Data Structures,70
+24CSE029,DBMS,62
+24CSE029,Operating Systems,65
+24CSE029,Computer Networks,63
+24CSE029,Software Engineering,59
+25EEE013,Power Systems,67
+25EEE013,Electrical Machines,60
+25EEE013,Control Systems,67
+25EEE013,Power Electronics,62
+25EEE013,Measurements,56
+25CSE043,Data Structures,74
+25CSE043,DBMS,69
+25CSE043,Operating Systems,58
+25CSE043,Computer Networks,58
+25CSE043,Software Engineering,61
+23MECH015,Thermodynamics,36
+23MECH015,Fluid Mechanics,43
+23MECH015,Machine Design,38
+23MECH015,Manufacturing,41
+23MECH015,Kinematics,41
+25ECE024,Signals and Systems,61
+25ECE024,Analog Circuits,44
+25ECE024,Digital Electronics,62
+25ECE024,Microprocessors,47
+25ECE024,EM Waves,56
+24ECE031,Signals and Systems,67
+24ECE031,Analog Circuits,63
+24ECE031,Digital Electronics,62
+24ECE031,Microprocessors,61
+24ECE031,EM Waves,61
+23MECH016,Thermodynamics,67
+23MECH016,Fluid Mechanics,87
+23MECH016,Machine Design,74
+23MECH016,Manufacturing,71
+23MECH016,Kinematics,86
+24CSE030,Data Structures,45
+24CSE030,DBMS,34
+24CSE030,Operating Systems,59
+24CSE030,Computer Networks,52
+24CSE030,Software Engineering,61
+25CSE044,Data Structures,41
+25CSE044,DBMS,59
+25CSE044,Operating Systems,52
+25CSE044,Computer Networks,54
+25CSE044,Software Engineering,46
+25EEE014,Power Systems,64
+25EEE014,Electrical Machines,64
+25EEE014,Control Systems,68
+25EEE014,Power Electronics,67
+25EEE014,Measurements,75
+23CSE023,Data Structures,58
+23CSE023,DBMS,59
+23CSE023,Operating Systems,52
+23CSE023,Computer Networks,55
+23CSE023,Software Engineering,50
+24CSE031,Data Structures,43
+24CSE031,DBMS,40
+24CSE031,Operating Systems,41
+24CSE031,Computer Networks,42
+24CSE031,Software Engineering,36
+23CSE024,Data Structures,58
+23CSE024,DBMS,60
+23CSE024,Operating Systems,43
+23CSE024,Computer Networks,64
+23CSE024,Software Engineering,24
+25CSE045,Data Structures,68
+25CSE045,DBMS,71
+25CSE045,Operating Systems,60
+25CSE045,Computer Networks,73
+25CSE045,Software Engineering,72
+24EEE015,Power Systems,61
+24EEE015,Electrical Machines,62
+24EEE015,Control Systems,81
+24EEE015,Power Electronics,66
+24EEE015,Measurements,58
+24MECH015,Thermodynamics,51
+24MECH015,Fluid Mechanics,55
+24MECH015,Machine Design,64
+24MECH015,Manufacturing,62
+24MECH015,Kinematics,63
+25MECH017,Thermodynamics,50
+25MECH017,Fluid Mechanics,58
+25MECH017,Machine Design,52
+25MECH017,Manufacturing,62
+25MECH017,Kinematics,49
+25CSE046,Data Structures,76
+25CSE046,DBMS,80
+25CSE046,Operating Systems,80
+25CSE046,Computer Networks,74
+25CSE046,Software Engineering,97
+25MECH018,Thermodynamics,54
+25MECH018,Fluid Mechanics,62
+25MECH018,Machine Design,45
+25MECH018,Manufacturing,54
+25MECH018,Kinematics,52
+25ECE025,Signals and Systems,33
+25ECE025,Analog Circuits,49
+25ECE025,Digital Electronics,49
+25ECE025,Microprocessors,43
+25ECE025,EM Waves,44
+23ECE023,Signals and Systems,77
+23ECE023,Analog Circuits,81
+23ECE023,Digital Electronics,80
+23ECE023,Microprocessors,72
+23ECE023,EM Waves,75
+25CSE047,Data Structures,81
+25CSE047,DBMS,75
+25CSE047,Operating Systems,68
+25CSE047,Computer Networks,65
+25CSE047,Software Engineering,48
+23CSE025,Data Structures,65
+23CSE025,DBMS,
+23CSE025,Operating Systems,66
+23CSE025,Computer Networks,64
+23CSE025,Software Engineering,63
+23ECE024,Signals and Systems,61
+23ECE024,Analog Circuits,57
+23ECE024,Digital Electronics,64
+23ECE024,Microprocessors,47
+23ECE024,EM Waves,69
+24ECE032,Signals and Systems,64
+24ECE032,Analog Circuits,84
+24ECE032,Digital Electronics,78
+24ECE032,Microprocessors,69
+24ECE032,EM Waves,72
+23CSE026,Data Structures,48
+23CSE026,DBMS,61
+23CSE026,Operating Systems,49
+23CSE026,Computer Networks,65
+23CSE026,Software Engineering,45
+23MECH017,Thermodynamics,79
+23MECH017,Fluid Mechanics,73
+23MECH017,Machine Design,48
+23MECH017,Manufacturing,73
+23MECH017,Kinematics,56
+23ECE025,Signals and Systems,62
+23ECE025,Analog Circuits,71
+23ECE025,Digital Electronics,64
+23ECE025,Microprocessors,65
+23ECE025,EM Waves,40
+24EEE016,Power Systems,47
+24EEE016,Electrical Machines,46
+24EEE016,Control Systems,55
+24EEE016,Power Electronics,59
+24EEE016,Measurements,48
+24CSE032,Data Structures,74
+24CSE032,DBMS,74
+24CSE032,Operating Systems,63
+24CSE032,Computer Networks,69
+24CSE032,Software Engineering,53
+24EEE017,Power Systems,66
+24EEE017,Electrical Machines,54
+24EEE017,Control Systems,59
+24EEE017,Power Electronics,65
+24EEE017,Measurements,68
+24CSE033,Data Structures,66
+24CSE033,DBMS,79
+24CSE033,Operating Systems,63
+24CSE033,Computer Networks,
+24CSE033,Software Engineering,60
+23EEE017,Power Systems,62
+23EEE017,Electrical Machines,60
+23EEE017,Control Systems,60
+23EEE017,Power Electronics,57
+23EEE017,Measurements,51
+25CSE048,Data Structures,44
+25CSE048,DBMS,67
+25CSE048,Operating Systems,61
+25CSE048,Computer Networks,47
+25CSE048,Software Engineering,56
+24ECE033,Signals and Systems,67
+24ECE033,Analog Circuits,70
+24ECE033,Digital Electronics,73
+24ECE033,Microprocessors,50
+24ECE033,EM Waves,60
+24MECH016,Thermodynamics,67
+24MECH016,Fluid Mechanics,69
+24MECH016,Machine Design,68
+24MECH016,Manufacturing,71
+24MECH016,Kinematics,66
+25MECH019,Thermodynamics,75
+25MECH019,Fluid Mechanics,72
+25MECH019,Machine Design,58
+25MECH019,Manufacturing,70
+25MECH019,Kinematics,73
+23CSE027,Data Structures,75
+23CSE027,DBMS,77
+23CSE027,Operating Systems,71
+23CSE027,Computer Networks,75
+23CSE027,Software Engineering,73
+24EEE018,Power Systems,63
+24EEE018,Electrical Machines,66
+24EEE018,Control Systems,64
+24EEE018,Power Electronics,60
+24EEE018,Measurements,63
+24ECE034,Signals and Systems,49
+24ECE034,Analog Circuits,65
+24ECE034,Digital Electronics,54
+24ECE034,Microprocessors,74
+24ECE034,EM Waves,50
+25CSE049,Data Structures,55
+25CSE049,DBMS,47
+25CSE049,Operating Systems,66
+25CSE049,Computer Networks,71
+25CSE049,Software Engineering,60
+23CSE028,Data Structures,68
+23CSE028,DBMS,59
+23CSE028,Operating Systems,64
+23CSE028,Computer Networks,62
+23CSE028,Software Engineering,53
+24CSE034,Data Structures,90
+24CSE034,DBMS,87
+24CSE034,Operating Systems,77
+24CSE034,Computer Networks,86
+24CSE034,Software Engineering,86
+25ECE026,Signals and Systems,59
+25ECE026,Analog Circuits,58
+25ECE026,Digital Electronics,45
+25ECE026,Microprocessors,53
+25ECE026,EM Waves,62
+24ECE035,Signals and Systems,51
+24ECE035,Analog Circuits,45
+24ECE035,Digital Electronics,33
+24ECE035,Microprocessors,49
+24ECE035,EM Waves,57
+23CSE029,Data Structures,62
+23CSE029,DBMS,57
+23CSE029,Operating Systems,49
+23CSE029,Computer Networks,56
+23CSE029,Software Engineering,66
+23ECE026,Signals and Systems,45
+23ECE026,Analog Circuits,59
+23ECE026,Digital Electronics,64
+23ECE026,Microprocessors,58
+23ECE026,EM Waves,38
+24CSE035,Data Structures,43
+24CSE035,DBMS,48
+24CSE035,Operating Systems,51
+24CSE035,Computer Networks,35
+24CSE035,Software Engineering,41
+24MECH017,Thermodynamics,77
+24MECH017,Fluid Mechanics,86
+24MECH017,Machine Design,77
+24MECH017,Manufacturing,67
+24MECH017,Kinematics,72
+23ECE027,Signals and Systems,28
+23ECE027,Analog Circuits,36
+23ECE027,Digital Electronics,52
+23ECE027,Microprocessors,24
+23ECE027,EM Waves,59
+25MECH020,Thermodynamics,70
+25MECH020,Fluid Mechanics,73
+25MECH020,Machine Design,68
+25MECH020,Manufacturing,62
+25MECH020,Kinematics,80
+25EEE015,Power Systems,65
+25EEE015,Electrical Machines,67
+25EEE015,Control Systems,68
+25EEE015,Power Electronics,69
+25EEE015,Measurements,53
+25MECH021,Thermodynamics,75
+25MECH021,Fluid Mechanics,65
+25MECH021,Machine Design,62
+25MECH021,Manufacturing,59
+25MECH021,Kinematics,68
+23MECH018,Thermodynamics,55
+23MECH018,Fluid Mechanics,69
+23MECH018,Machine Design,63
+23MECH018,Manufacturing,71
+23MECH018,Kinematics,83
+24CSE036,Data Structures,64
+24CSE036,DBMS,47
+24CSE036,Operating Systems,71
+24CSE036,Computer Networks,58
+24CSE036,Software Engineering,57
+23MECH019,Thermodynamics,79
+23MECH019,Fluid Mechanics,65
+23MECH019,Machine Design,70
+23MECH019,Manufacturing,69
+23MECH019,Kinematics,63
+24ECE036,Signals and Systems,59
+24ECE036,Analog Circuits,72
+24ECE036,Digital Electronics,48
+24ECE036,Microprocessors,64
+24ECE036,EM Waves,67
+25CSE050,Data Structures,69
+25CSE050,DBMS,68
+25CSE050,Operating Systems,78
+25CSE050,Computer Networks,82
+25CSE050,Software Engineering,71
+24EEE019,Power Systems,62
+24EEE019,Electrical Machines,74
+24EEE019,Control Systems,61
+24EEE019,Power Electronics,64
+24EEE019,Measurements,62
+25CSE051,Data Structures,56
+25CSE051,DBMS,60
+25CSE051,Operating Systems,69
+25CSE051,Computer Networks,58
+25CSE051,Software Engineering,64
+24CSE037,Data Structures,62
+24CSE037,DBMS,54
+24CSE037,Operating Systems,57
+24CSE037,Computer Networks,60
+24CSE037,Software Engineering,48
+25MECH022,Thermodynamics,55
+25MECH022,Fluid Mechanics,64
+25MECH022,Machine Design,67
+25MECH022,Manufacturing,67
+25MECH022,Kinematics,63
+24CSE038,Data Structures,60
+24CSE038,DBMS,48
+24CSE038,Operating Systems,58
+24CSE038,Computer Networks,52
+24CSE038,Software Engineering,61
+24CSE039,Data Structures,73
+24CSE039,DBMS,63
+24CSE039,Operating Systems,62
+24CSE039,Computer Networks,77
+24CSE039,Software Engineering,72
+25EEE016,Power Systems,61
+25EEE016,Electrical Machines,48
+25EEE016,Control Systems,41
+25EEE016,Power Electronics,52
+25EEE016,Measurements,45
+23MECH020,Thermodynamics,83
+23MECH020,Fluid Mechanics,71
+23MECH020,Machine Design,65
+23MECH020,Manufacturing,59
+23MECH020,Kinematics,72
+25CSE052,Data Structures,37
+25CSE052,DBMS,35
+25CSE052,Operating Systems,50
+25CSE052,Computer Networks,28
+25CSE052,Software Engineering,37
+25MECH023,Thermodynamics,73
+25MECH023,Fluid Mechanics,91
+25MECH023,Machine Design,82
+25MECH023,Manufacturing,78
+25MECH023,Kinematics,61
+23CSE030,Data Structures,60
+23CSE030,DBMS,46
+23CSE030,Operating Systems,57
+23CSE030,Computer Networks,58
+23CSE030,Software Engineering,60
+23CSE031,Data Structures,64
+23CSE031,DBMS,67
+23CSE031,Operating Systems,77
+23CSE031,Computer Networks,82
+23CSE031,Software Engineering,61
+23CSE032,Data Structures,57
+23CSE032,DBMS,39
+23CSE032,Operating Systems,57
+23CSE032,Computer Networks,62
+23CSE032,Software Engineering,41
+25ECE027,Signals and Systems,52
+25ECE027,Analog Circuits,48
+25ECE027,Digital Electronics,53
+25ECE027,Microprocessors,54
+25ECE027,EM Waves,64
+24CSE040,Data Structures,59
+24CSE040,DBMS,59
+24CSE040,Operating Systems,71
+24CSE040,Computer Networks,
+24CSE040,Software Engineering,71
+23CSE033,Data Structures,64
+23CSE033,DBMS,52
+23CSE033,Operating Systems,53
+23CSE033,Computer Networks,59
+23CSE033,Software Engineering,38
+23EEE018,Power Systems,49
+23EEE018,Electrical Machines,55
+23EEE018,Control Systems,58
+23EEE018,Power Electronics,64
+23EEE018,Measurements,52
+24CSE041,Data Structures,66
+24CSE041,DBMS,46
+24CSE041,Operating Systems,67
+24CSE041,Computer Networks,67
+24CSE041,Software Engineering,56
+23ECE028,Signals and Systems,89
+23ECE028,Analog Circuits,67
+23ECE028,Digital Electronics,76
+23ECE028,Microprocessors,66
+23ECE028,EM Waves,90
+24MECH018,Thermodynamics,59
+24MECH018,Fluid Mechanics,67
+24MECH018,Machine Design,57
+24MECH018,Manufacturing,66
+24MECH018,Kinematics,66
+25CSE053,Data Structures,58
+25CSE053,DBMS,34
+25CSE053,Operating Systems,63
+25CSE053,Computer Networks,61
+25CSE053,Software Engineering,39
+24CSE042,Data Structures,42
+24CSE042,DBMS,38
+24CSE042,Operating Systems,37
+24CSE042,Computer Networks,52
+24CSE042,Software Engineering,40
+24CSE043,Data Structures,70
+24CSE043,DBMS,61
+24CSE043,Operating Systems,77
+24CSE043,Computer Networks,73
+24CSE043,Software Engineering,78
+25ECE028,Signals and Systems,68
+25ECE028,Analog Circuits,73
+25ECE028,Digital Electronics,72
+25ECE028,Microprocessors,57
+25ECE028,EM Waves,79
+23EEE019,Power Systems,69
+23EEE019,Electrical Machines,62
+23EEE019,Control Systems,73
+23EEE019,Power Electronics,70
+23EEE019,Measurements,71
+24EEE020,Power Systems,44
+24EEE020,Electrical Machines,41
+24EEE020,Control Systems,29
+24EEE020,Power Electronics,61
+24EEE020,Measurements,66
+25ECE029,Signals and Systems,42
+25ECE029,Analog Circuits,38
+25ECE029,Digital Electronics,50
+25ECE029,Microprocessors,52
+25ECE029,EM Waves,44
+25MECH024,Thermodynamics,51
+25MECH024,Fluid Mechanics,51
+25MECH024,Machine Design,
+25MECH024,Manufacturing,58
+25MECH024,Kinematics,56
+23CSE034,Data Structures,78
+23CSE034,DBMS,65
+23CSE034,Operating Systems,56
+23CSE034,Computer Networks,62
+23CSE034,Software Engineering,61
+24MECH019,Thermodynamics,75
+24MECH019,Fluid Mechanics,53
+24MECH019,Machine Design,59
+24MECH019,Manufacturing,70
+24MECH019,Kinematics,49
+25ECE030,Signals and Systems,39
+25ECE030,Analog Circuits,39
+25ECE030,Digital Electronics,49
+25ECE030,Microprocessors,57
+25ECE030,EM Waves,39
+25CSE054,Data Structures,60
+25CSE054,DBMS,50
+25CSE054,Operating Systems,42
+25CSE054,Computer Networks,64
+25CSE054,Software Engineering,49
+23CSE035,Data Structures,80
+23CSE035,DBMS,79
+23CSE035,Operating Systems,88
+23CSE035,Computer Networks,78
+23CSE035,Software Engineering,72
+24ECE037,Signals and Systems,61
+24ECE037,Analog Circuits,46
+24ECE037,Digital Electronics,47
+24ECE037,Microprocessors,68
+24ECE037,EM Waves,45
+25CSE055,Data Structures,65
+25CSE055,DBMS,55
+25CSE055,Operating Systems,53
+25CSE055,Computer Networks,55
+25CSE055,Software Engineering,46
+23CSE036,Data Structures,58
+23CSE036,DBMS,50
+23CSE036,Operating Systems,57
+23CSE036,Computer Networks,54
+23CSE036,Software Engineering,58
+24MECH020,Thermodynamics,68
+24MECH020,Fluid Mechanics,63
+24MECH020,Machine Design,70
+24MECH020,Manufacturing,60
+24MECH020,Kinematics,68
+25ECE031,Signals and Systems,76
+25ECE031,Analog Circuits,69
+25ECE031,Digital Electronics,75
+25ECE031,Microprocessors,78
+25ECE031,EM Waves,58
+25CSE056,Data Structures,64
+25CSE056,DBMS,59
+25CSE056,Operating Systems,52
+25CSE056,Computer Networks,65
+25CSE056,Software Engineering,75
+25CSE057,Data Structures,61
+25CSE057,DBMS,65
+25CSE057,Operating Systems,58
+25CSE057,Computer Networks,78
+25CSE057,Software Engineering,79
+23MECH021,Thermodynamics,49
+23MECH021,Fluid Mechanics,63
+23MECH021,Machine Design,55
+23MECH021,Manufacturing,51
+23MECH021,Kinematics,40
+23EEE020,Power Systems,69
+23EEE020,Electrical Machines,83
+23EEE020,Control Systems,64
+23EEE020,Power Electronics,64
+23EEE020,Measurements,79
+23CSE037,Data Structures,41
+23CSE037,DBMS,52
+23CSE037,Operating Systems,44
+23CSE037,Computer Networks,55
+23CSE037,Software Engineering,47
+25EEE017,Power Systems,48
+25EEE017,Electrical Machines,43
+25EEE017,Control Systems,51
+25EEE017,Power Electronics,56
+25EEE017,Measurements,48
+25CSE058,Data Structures,63
+25CSE058,DBMS,83
+25CSE058,Operating Systems,59
+25CSE058,Computer Networks,76
+25CSE058,Software Engineering,75
+24CSE044,Data Structures,66
+24CSE044,DBMS,71
+24CSE044,Operating Systems,65
+24CSE044,Computer Networks,65
+24CSE044,Software Engineering,68
+24CSE045,Data Structures,58
+24CSE045,DBMS,54
+24CSE045,Operating Systems,57
+24CSE045,Computer Networks,48
+24CSE045,Software Engineering,58
+24CSE046,Data Structures,67
+24CSE046,DBMS,90
+24CSE046,Operating Systems,
+24CSE046,Computer Networks,77
+24CSE046,Software Engineering,71
+23EEE021,Power Systems,43
+23EEE021,Electrical Machines,43
+23EEE021,Control Systems,57
+23EEE021,Power Electronics,46
+23EEE021,Measurements,55
+24MECH021,Thermodynamics,61
+24MECH021,Fluid Mechanics,61
+24MECH021,Machine Design,72
+24MECH021,Manufacturing,72
+24MECH021,Kinematics,71
+25EEE018,Power Systems,66
+25EEE018,Electrical Machines,57
+25EEE018,Control Systems,53
+25EEE018,Power Electronics,65
+25EEE018,Measurements,51
+24CSE047,Data Structures,54
+24CSE047,DBMS,44
+24CSE047,Operating Systems,
+24CSE047,Computer Networks,54
+24CSE047,Software Engineering,68
+24CSE048,Data Structures,55
+24CSE048,DBMS,54
+24CSE048,Operating Systems,75
+24CSE048,Computer Networks,70
+24CSE048,Software Engineering,66
+24MECH022,Thermodynamics,77
+24MECH022,Fluid Mechanics,82
+24MECH022,Machine Design,63
+24MECH022,Manufacturing,69
+24MECH022,Kinematics,68
+23CSE038,Data Structures,42
+23CSE038,DBMS,48
+23CSE038,Operating Systems,58
+23CSE038,Computer Networks,53
+23CSE038,Software Engineering,55
+25ECE032,Signals and Systems,51
+25ECE032,Analog Circuits,66
+25ECE032,Digital Electronics,60
+25ECE032,Microprocessors,61
+25ECE032,EM Waves,69
+24CSE049,Data Structures,93
+24CSE049,DBMS,86
+24CSE049,Operating Systems,82
+24CSE049,Computer Networks,100
+24CSE049,Software Engineering,88
+23EEE022,Power Systems,48
+23EEE022,Electrical Machines,54
+23EEE022,Control Systems,53
+23EEE022,Power Electronics,53
+23EEE022,Measurements,66
+25CSE059,Data Structures,66
+25CSE059,DBMS,63
+25CSE059,Operating Systems,68
+25CSE059,Computer Networks,70
+25CSE059,Software Engineering,50
+24CSE050,Data Structures,42
+24CSE050,DBMS,58
+24CSE050,Operating Systems,51
+24CSE050,Computer Networks,62
+24CSE050,Software Engineering,34
+24CSE051,Data Structures,82
+24CSE051,DBMS,87
+24CSE051,Operating Systems,83
+24CSE051,Computer Networks,89
+24CSE051,Software Engineering,70
+24CSE052,Data Structures,81
+24CSE052,DBMS,76
+24CSE052,Operating Systems,75
+24CSE052,Computer Networks,66
+24CSE052,Software Engineering,64
+25ECE033,Signals and Systems,58
+25ECE033,Analog Circuits,59
+25ECE033,Digital Electronics,55
+25ECE033,Microprocessors,64
+25ECE033,EM Waves,70
+24ECE038,Signals and Systems,71
+24ECE038,Analog Circuits,58
+24ECE038,Digital Electronics,77
+24ECE038,Microprocessors,66
+24ECE038,EM Waves,72
+25ECE034,Signals and Systems,81
+25ECE034,Analog Circuits,81
+25ECE034,Digital Electronics,84
+25ECE034,Microprocessors,84
+25ECE034,EM Waves,89
+23CSE039,Data Structures,52
+23CSE039,DBMS,50
+23CSE039,Operating Systems,41
+23CSE039,Computer Networks,56
+23CSE039,Software Engineering,43
+25CSE060,Data Structures,82
+25CSE060,DBMS,74
+25CSE060,Operating Systems,72
+25CSE060,Computer Networks,81
+25CSE060,Software Engineering,67
+25CSE061,Data Structures,36
+25CSE061,DBMS,29
+25CSE061,Operating Systems,53
+25CSE061,Computer Networks,43
+25CSE061,Software Engineering,44
+23MECH022,Thermodynamics,70
+23MECH022,Fluid Mechanics,62
+23MECH022,Machine Design,70
+23MECH022,Manufacturing,63
+23MECH022,Kinematics,68
+24ECE039,Signals and Systems,82
+24ECE039,Analog Circuits,74
+24ECE039,Digital Electronics,86
+24ECE039,Microprocessors,87
+24ECE039,EM Waves,81
+25CSE062,Data Structures,83
+25CSE062,DBMS,80
+25CSE062,Operating Systems,61
+25CSE062,Computer Networks,74
+25CSE062,Software Engineering,73
+23ECE029,Signals and Systems,63
+23ECE029,Analog Circuits,51
+23ECE029,Digital Electronics,
+23ECE029,Microprocessors,63
+23ECE029,EM Waves,66
+23CSE040,Data Structures,48
+23CSE040,DBMS,60
+23CSE040,Operating Systems,47
+23CSE040,Computer Networks,44
+23CSE040,Software Engineering,43
+24ECE040,Signals and Systems,67
+24ECE040,Analog Circuits,71
+24ECE040,Digital Electronics,59
+24ECE040,Microprocessors,74
+24ECE040,EM Waves,74
+24MECH023,Thermodynamics,67
+24MECH023,Fluid Mechanics,73
+24MECH023,Machine Design,75
+24MECH023,Manufacturing,63
+24MECH023,Kinematics,68
+25EEE019,Power Systems,70
+25EEE019,Electrical Machines,64
+25EEE019,Control Systems,74
+25EEE019,Power Electronics,69
+25EEE019,Measurements,77
+25CSE063,Data Structures,57
+25CSE063,DBMS,56
+25CSE063,Operating Systems,65
+25CSE063,Computer Networks,58
+25CSE063,Software Engineering,48
+23ECE030,Signals and Systems,93
+23ECE030,Analog Circuits,95
+23ECE030,Digital Electronics,79
+23ECE030,Microprocessors,79
+23ECE030,EM Waves,100
+25MECH025,Thermodynamics,71
+25MECH025,Fluid Mechanics,69
+25MECH025,Machine Design,96
+25MECH025,Manufacturing,80
+25MECH025,Kinematics,73
+24CSE053,Data Structures,76
+24CSE053,DBMS,80
+24CSE053,Operating Systems,78
+24CSE053,Computer Networks,70
+24CSE053,Software Engineering,76
+25CSE064,Data Structures,43
+25CSE064,DBMS,46
+25CSE064,Operating Systems,31
+25CSE064,Computer Networks,56
+25CSE064,Software Engineering,31
+23CSE041,Data Structures,42
+23CSE041,DBMS,51
+23CSE041,Operating Systems,59
+23CSE041,Computer Networks,48
+23CSE041,Software Engineering,50
+23CSE042,Data Structures,89
+23CSE042,DBMS,82
+23CSE042,Operating Systems,74
+23CSE042,Computer Networks,90
+23CSE042,Software Engineering,98
+23ECE031,Signals and Systems,46
+23ECE031,Analog Circuits,38
+23ECE031,Digital Electronics,57
+23ECE031,Microprocessors,55
+23ECE031,EM Waves,41
+25CSE065,Data Structures,77
+25CSE065,DBMS,82
+25CSE065,Operating Systems,80
+25CSE065,Computer Networks,81
+25CSE065,Software Engineering,74
+23EEE023,Power Systems,43
+23EEE023,Electrical Machines,39
+23EEE023,Control Systems,42
+23EEE023,Power Electronics,42
+23EEE023,Measurements,44
+23CSE043,Data Structures,72
+23CSE043,DBMS,80
+23CSE043,Operating Systems,94
+23CSE043,Computer Networks,78
+23CSE043,Software Engineering,89
+25ECE035,Signals and Systems,77
+25ECE035,Analog Circuits,74
+25ECE035,Digital Electronics,80
+25ECE035,Microprocessors,77
+25ECE035,EM Waves,83
+25CSE066,Data Structures,62
+25CSE066,DBMS,76
+25CSE066,Operating Systems,76
+25CSE066,Computer Networks,64
+25CSE066,Software Engineering,70
+23CSE044,Data Structures,
+23CSE044,DBMS,43
+23CSE044,Operating Systems,
+23CSE044,Computer Networks,52
+23CSE044,Software Engineering,45
+25ECE036,Signals and Systems,74
+25ECE036,Analog Circuits,67
+25ECE036,Digital Electronics,71
+25ECE036,Microprocessors,63
+25ECE036,EM Waves,74
+23ECE032,Signals and Systems,39
+23ECE032,Analog Circuits,40
+23ECE032,Digital Electronics,43
+23ECE032,Microprocessors,51
+23ECE032,EM Waves,37
+24ECE041,Signals and Systems,38
+24ECE041,Analog Circuits,60
+24ECE041,Digital Electronics,56
+24ECE041,Microprocessors,51
+24ECE041,EM Waves,46
+23EEE024,Power Systems,50
+23EEE024,Electrical Machines,64
+23EEE024,Control Systems,67
+23EEE024,Power Electronics,76
+23EEE024,Measurements,56
+24CSE054,Data Structures,44
+24CSE054,DBMS,46
+24CSE054,Operating Systems,48
+24CSE054,Computer Networks,29
+24CSE054,Software Engineering,43
+23CSE045,Data Structures,66
+23CSE045,DBMS,78
+23CSE045,Operating Systems,70
+23CSE045,Computer Networks,68
+23CSE045,Software Engineering,69
+23ECE033,Signals and Systems,48
+23ECE033,Analog Circuits,39
+23ECE033,Digital Electronics,38
+23ECE033,Microprocessors,39
+23ECE033,EM Waves,48
+25CSE067,Data Structures,74
+25CSE067,DBMS,84
+25CSE067,Operating Systems,93
+25CSE067,Computer Networks,82
+25CSE067,Software Engineering,73
+25CSE068,Data Structures,56
+25CSE068,DBMS,48
+25CSE068,Operating Systems,48
+25CSE068,Computer Networks,44
+25CSE068,Software Engineering,64
+24CSE055,Data Structures,46
+24CSE055,DBMS,66
+24CSE055,Operating Systems,30
+24CSE055,Computer Networks,40
+24CSE055,Software Engineering,52
+24MECH024,Thermodynamics,34
+24MECH024,Fluid Mechanics,53
+24MECH024,Machine Design,42
+24MECH024,Manufacturing,58
+24MECH024,Kinematics,35
+23CSE046,Data Structures,75
+23CSE046,DBMS,70
+23CSE046,Operating Systems,76
+23CSE046,Computer Networks,63
+23CSE046,Software Engineering,85
+23MECH023,Thermodynamics,48
+23MECH023,Fluid Mechanics,61
+23MECH023,Machine Design,60
+23MECH023,Manufacturing,53
+23MECH023,Kinematics,45
+25CSE069,Data Structures,59
+25CSE069,DBMS,62
+25CSE069,Operating Systems,54
+25CSE069,Computer Networks,59
+25CSE069,Software Engineering,
+25ECE037,Signals and Systems,71
+25ECE037,Analog Circuits,74
+25ECE037,Digital Electronics,67
+25ECE037,Microprocessors,72
+25ECE037,EM Waves,58
+25MECH026,Thermodynamics,55
+25MECH026,Fluid Mechanics,55
+25MECH026,Machine Design,69
+25MECH026,Manufacturing,61
+25MECH026,Kinematics,62
+24ECE042,Signals and Systems,89
+24ECE042,Analog Circuits,69
+24ECE042,Digital Electronics,76
+24ECE042,Microprocessors,75
+24ECE042,EM Waves,79
+24EEE021,Power Systems,65
+24EEE021,Electrical Machines,51
+24EEE021,Control Systems,63
+24EEE021,Power Electronics,50
+24EEE021,Measurements,
+25CSE070,Data Structures,70
+25CSE070,DBMS,64
+25CSE070,Operating Systems,65
+25CSE070,Computer Networks,71
+25CSE070,Software Engineering,67
+25CSE071,Data Structures,81
+25CSE071,DBMS,85
+25CSE071,Operating Systems,86
+25CSE071,Computer Networks,79
+25CSE071,Software Engineering,82
+23CSE047,Data Structures,
+23CSE047,DBMS,63
+23CSE047,Operating Systems,75
+23CSE047,Computer Networks,70
+23CSE047,Software Engineering,65
+23ECE034,Signals and Systems,94
+23ECE034,Analog Circuits,63
+23ECE034,Digital Electronics,82
+23ECE034,Microprocessors,76
+23ECE034,EM Waves,85
+25CSE072,Data Structures,85
+25CSE072,DBMS,67
+25CSE072,Operating Systems,70
+25CSE072,Computer Networks,83
+25CSE072,Software Engineering,69
+23EEE025,Power Systems,75
+23EEE025,Electrical Machines,68
+23EEE025,Control Systems,76
+23EEE025,Power Electronics,77
+23EEE025,Measurements,73
+23CSE048,Data Structures,56
+23CSE048,DBMS,67
+23CSE048,Operating Systems,62
+23CSE048,Computer Networks,65
+23CSE048,Software Engineering,52
+24CSE056,Data Structures,71
+24CSE056,DBMS,69
+24CSE056,Operating Systems,72
+24CSE056,Computer Networks,75
+24CSE056,Software Engineering,62
+23EEE026,Power Systems,71
+23EEE026,Electrical Machines,72
+23EEE026,Control Systems,61
+23EEE026,Power Electronics,62
+23EEE026,Measurements,72
+23ECE035,Signals and Systems,83
+23ECE035,Analog Circuits,75
+23ECE035,Digital Electronics,78
+23ECE035,Microprocessors,
+23ECE035,EM Waves,64
+25EEE020,Power Systems,83
+25EEE020,Electrical Machines,72
+25EEE020,Control Systems,72
+25EEE020,Power Electronics,79
+25EEE020,Measurements,80
+23CSE049,Data Structures,48
+23CSE049,DBMS,51
+23CSE049,Operating Systems,57
+23CSE049,Computer Networks,51
+23CSE049,Software Engineering,46
+25ECE038,Signals and Systems,82
+25ECE038,Analog Circuits,69
+25ECE038,Digital Electronics,71
+25ECE038,Microprocessors,66
+25ECE038,EM Waves,75
+25MECH027,Thermodynamics,53
+25MECH027,Fluid Mechanics,82
+25MECH027,Machine Design,50
+25MECH027,Manufacturing,72
+25MECH027,Kinematics,68
+25CSE073,Data Structures,99
+25CSE073,DBMS,81
+25CSE073,Operating Systems,95
+25CSE073,Computer Networks,100
+25CSE073,Software Engineering,86
+24ECE043,Signals and Systems,38
+24ECE043,Analog Circuits,47
+24ECE043,Digital Electronics,52
+24ECE043,Microprocessors,34
+24ECE043,EM Waves,40
+23CSE050,Data Structures,63
+23CSE050,DBMS,56
+23CSE050,Operating Systems,62
+23CSE050,Computer Networks,65
+23CSE050,Software Engineering,71
+23MECH024,Thermodynamics,64
+23MECH024,Fluid Mechanics,56
+23MECH024,Machine Design,64
+23MECH024,Manufacturing,57
+23MECH024,Kinematics,69
+23ECE036,Signals and Systems,46
+23ECE036,Analog Circuits,43
+23ECE036,Digital Electronics,51
+23ECE036,Microprocessors,49
+23ECE036,EM Waves,41
+25ECE039,Signals and Systems,70
+25ECE039,Analog Circuits,70
+25ECE039,Digital Electronics,72
+25ECE039,Microprocessors,67
+25ECE039,EM Waves,53
+24CSE057,Data Structures,41
+24CSE057,DBMS,58
+24CSE057,Operating Systems,46
+24CSE057,Computer Networks,61
+24CSE057,Software Engineering,47
+24ECE044,Signals and Systems,61
+24ECE044,Analog Circuits,60
+24ECE044,Digital Electronics,41
+24ECE044,Microprocessors,67
+24ECE044,EM Waves,64
+24ECE045,Signals and Systems,59
+24ECE045,Analog Circuits,53
+24ECE045,Digital Electronics,65
+24ECE045,Microprocessors,69
+24ECE045,EM Waves,82
+25MECH028,Thermodynamics,50
+25MECH028,Fluid Mechanics,50
+25MECH028,Machine Design,58
+25MECH028,Manufacturing,54
+25MECH028,Kinematics,53
+25EEE021,Power Systems,58
+25EEE021,Electrical Machines,70
+25EEE021,Control Systems,63
+25EEE021,Power Electronics,67
+25EEE021,Measurements,75
+23MECH025,Thermodynamics,65
+23MECH025,Fluid Mechanics,78
+23MECH025,Machine Design,53
+23MECH025,Manufacturing,67
+23MECH025,Kinematics,67
+23MECH026,Thermodynamics,75
+23MECH026,Fluid Mechanics,62
+23MECH026,Machine Design,84
+23MECH026,Manufacturing,72
+23MECH026,Kinematics,61
+23ECE037,Signals and Systems,82
+23ECE037,Analog Circuits,86
+23ECE037,Digital Electronics,72
+23ECE037,Microprocessors,66
+23ECE037,EM Waves,86
+25CSE074,Data Structures,43
+25CSE074,DBMS,68
+25CSE074,Operating Systems,75
+25CSE074,Computer Networks,57
+25CSE074,Software Engineering,62
+25MECH029,Thermodynamics,59
+25MECH029,Fluid Mechanics,44
+25MECH029,Machine Design,44
+25MECH029,Manufacturing,66
+25MECH029,Kinematics,59
+25ECE040,Signals and Systems,50
+25ECE040,Analog Circuits,37
+25ECE040,Digital Electronics,57
+25ECE040,Microprocessors,53
+25ECE040,EM Waves,49
+25MECH030,Thermodynamics,67
+25MECH030,Fluid Mechanics,49
+25MECH030,Machine Design,56
+25MECH030,Manufacturing,58
+25MECH030,Kinematics,65
+25ECE041,Signals and Systems,66
+25ECE041,Analog Circuits,70
+25ECE041,Digital Electronics,74
+25ECE041,Microprocessors,64
+25ECE041,EM Waves,67
+25MECH031,Thermodynamics,72
+25MECH031,Fluid Mechanics,49
+25MECH031,Machine Design,52
+25MECH031,Manufacturing,66
+25MECH031,Kinematics,61
+24CSE058,Data Structures,54
+24CSE058,DBMS,52
+24CSE058,Operating Systems,66
+24CSE058,Computer Networks,63
+24CSE058,Software Engineering,67
+23CSE051,Data Structures,47
+23CSE051,DBMS,60
+23CSE051,Operating Systems,66
+23CSE051,Computer Networks,76
+23CSE051,Software Engineering,62
+24ECE046,Signals and Systems,52
+24ECE046,Analog Circuits,44
+24ECE046,Digital Electronics,65
+24ECE046,Microprocessors,48
+24ECE046,EM Waves,58
+24MECH025,Thermodynamics,74
+24MECH025,Fluid Mechanics,66
+24MECH025,Machine Design,68
+24MECH025,Manufacturing,69
+24MECH025,Kinematics,56
+23EEE027,Power Systems,70
+23EEE027,Electrical Machines,79
+23EEE027,Control Systems,70
+23EEE027,Power Electronics,72
+23EEE027,Measurements,75
+25ECE042,Signals and Systems,69
+25ECE042,Analog Circuits,63
+25ECE042,Digital Electronics,57
+25ECE042,Microprocessors,58
+25ECE042,EM Waves,70
+25CSE075,Data Structures,69
+25CSE075,DBMS,59
+25CSE075,Operating Systems,44
+25CSE075,Computer Networks,59
+25CSE075,Software Engineering,67
+23CSE052,Data Structures,48
+23CSE052,DBMS,36
+23CSE052,Operating Systems,26
+23CSE052,Computer Networks,40
+23CSE052,Software Engineering,36
+24ECE047,Signals and Systems,47
+24ECE047,Analog Circuits,63
+24ECE047,Digital Electronics,55
+24ECE047,Microprocessors,67
+24ECE047,EM Waves,60
+25ECE043,Signals and Systems,66
+25ECE043,Analog Circuits,58
+25ECE043,Digital Electronics,64
+25ECE043,Microprocessors,63
+25ECE043,EM Waves,51
+25EEE022,Power Systems,56
+25EEE022,Electrical Machines,53
+25EEE022,Control Systems,50
+25EEE022,Power Electronics,49
+25EEE022,Measurements,51
+24CSE059,Data Structures,74
+24CSE059,DBMS,67
+24CSE059,Operating Systems,62
+24CSE059,Computer Networks,66
+24CSE059,Software Engineering,73
+23CSE053,Data Structures,69
+23CSE053,DBMS,61
+23CSE053,Operating Systems,61
+23CSE053,Computer Networks,72
+23CSE053,Software Engineering,59
+25ECE044,Signals and Systems,51
+25ECE044,Analog Circuits,53
+25ECE044,Digital Electronics,43
+25ECE044,Microprocessors,58
+25ECE044,EM Waves,58
+23ECE038,Signals and Systems,80
+23ECE038,Analog Circuits,69
+23ECE038,Digital Electronics,79
+23ECE038,Microprocessors,78
+23ECE038,EM Waves,62
+25CSE076,Data Structures,46
+25CSE076,DBMS,52
+25CSE076,Operating Systems,50
+25CSE076,Computer Networks,67
+25CSE076,Software Engineering,48
+24CSE060,Data Structures,82
+24CSE060,DBMS,72
+24CSE060,Operating Systems,65
+24CSE060,Computer Networks,80
+24CSE060,Software Engineering,80
+24CSE061,Data Structures,58
+24CSE061,DBMS,60
+24CSE061,Operating Systems,61
+24CSE061,Computer Networks,77
+24CSE061,Software Engineering,60
+24EEE022,Power Systems,71
+24EEE022,Electrical Machines,65
+24EEE022,Control Systems,69
+24EEE022,Power Electronics,60
+24EEE022,Measurements,69
+24CSE062,Data Structures,66
+24CSE062,DBMS,77
+24CSE062,Operating Systems,66
+24CSE062,Computer Networks,70
+24CSE062,Software Engineering,64
+24CSE063,Data Structures,32
+24CSE063,DBMS,35
+24CSE063,Operating Systems,46
+24CSE063,Computer Networks,30
+24CSE063,Software Engineering,41
+24CSE064,Data Structures,58
+24CSE064,DBMS,70
+24CSE064,Operating Systems,48
+24CSE064,Computer Networks,52
+24CSE064,Software Engineering,72
+25ECE045,Signals and Systems,68
+25ECE045,Analog Circuits,63
+25ECE045,Digital Electronics,84
+25ECE045,Microprocessors,57
+25ECE045,EM Waves,68
+25CSE077,Data Structures,68
+25CSE077,DBMS,72
+25CSE077,Operating Systems,65
+25CSE077,Computer Networks,70
+25CSE077,Software Engineering,71
+25MECH032,Thermodynamics,80
+25MECH032,Fluid Mechanics,86
+25MECH032,Machine Design,73
+25MECH032,Manufacturing,74
+25MECH032,Kinematics,74
+23CSE054,Data Structures,59
+23CSE054,DBMS,72
+23CSE054,Operating Systems,76
+23CSE054,Computer Networks,81
+23CSE054,Software Engineering,57
+25MECH033,Thermodynamics,68
+25MECH033,Fluid Mechanics,64
+25MECH033,Machine Design,63
+25MECH033,Manufacturing,83
+25MECH033,Kinematics,58
+23ECE039,Signals and Systems,74
+23ECE039,Analog Circuits,65
+23ECE039,Digital Electronics,75
+23ECE039,Microprocessors,75
+23ECE039,EM Waves,81
+23CSE055,Data Structures,73
+23CSE055,DBMS,58
+23CSE055,Operating Systems,58
+23CSE055,Computer Networks,86
+23CSE055,Software Engineering,73
+24CSE065,Data Structures,65
+24CSE065,DBMS,60
+24CSE065,Operating Systems,57
+24CSE065,Computer Networks,79
+24CSE065,Software Engineering,80
+25ECE046,Signals and Systems,91
+25ECE046,Analog Circuits,83
+25ECE046,Digital Electronics,77
+25ECE046,Microprocessors,83
+25ECE046,EM Waves,83
+25CSE078,Data Structures,62
+25CSE078,DBMS,49
+25CSE078,Operating Systems,48
+25CSE078,Computer Networks,59
+25CSE078,Software Engineering,37
+25MECH034,Thermodynamics,74
+25MECH034,Fluid Mechanics,67
+25MECH034,Machine Design,71
+25MECH034,Manufacturing,72
+25MECH034,Kinematics,69
+23MECH027,Thermodynamics,53
+23MECH027,Fluid Mechanics,45
+23MECH027,Machine Design,59
+23MECH027,Manufacturing,70
+23MECH027,Kinematics,56
+25ECE047,Signals and Systems,77
+25ECE047,Analog Circuits,69
+25ECE047,Digital Electronics,70
+25ECE047,Microprocessors,80
+25ECE047,EM Waves,69
+24CSE066,Data Structures,67
+24CSE066,DBMS,50
+24CSE066,Operating Systems,73
+24CSE066,Computer Networks,58
+24CSE066,Software Engineering,66
+25ECE048,Signals and Systems,52
+25ECE048,Analog Circuits,45
+25ECE048,Digital Electronics,48
+25ECE048,Microprocessors,60
+25ECE048,EM Waves,54
+23ECE040,Signals and Systems,68
+23ECE040,Analog Circuits,65
+23ECE040,Digital Electronics,54
+23ECE040,Microprocessors,48
+23ECE040,EM Waves,59
+25ECE049,Signals and Systems,90
+25ECE049,Analog Circuits,85
+25ECE049,Digital Electronics,
+25ECE049,Microprocessors,97
+25ECE049,EM Waves,86
+24CSE067,Data Structures,61
+24CSE067,DBMS,42
+24CSE067,Operating Systems,67
+24CSE067,Computer Networks,57
+24CSE067,Software Engineering,67
+24CSE068,Data Structures,52
+24CSE068,DBMS,54
+24CSE068,Operating Systems,50
+24CSE068,Computer Networks,57
+24CSE068,Software Engineering,65
+25MECH035,Thermodynamics,71
+25MECH035,Fluid Mechanics,76
+25MECH035,Machine Design,67
+25MECH035,Manufacturing,53
+25MECH035,Kinematics,60
+23CSE056,Data Structures,58
+23CSE056,DBMS,62
+23CSE056,Operating Systems,64
+23CSE056,Computer Networks,60
+23CSE056,Software Engineering,48
+23CSE057,Data Structures,71
+23CSE057,DBMS,77
+23CSE057,Operating Systems,73
+23CSE057,Computer Networks,77
+23CSE057,Software Engineering,58
+25MECH036,Thermodynamics,67
+25MECH036,Fluid Mechanics,54
+25MECH036,Machine Design,65
+25MECH036,Manufacturing,66
+25MECH036,Kinematics,79
+25ECE050,Signals and Systems,61
+25ECE050,Analog Circuits,67
+25ECE050,Digital Electronics,61
+25ECE050,Microprocessors,67
+25ECE050,EM Waves,66
+23CSE058,Data Structures,55
+23CSE058,DBMS,44
+23CSE058,Operating Systems,66
+23CSE058,Computer Networks,45
+23CSE058,Software Engineering,48
+24EEE023,Power Systems,56
+24EEE023,Electrical Machines,67
+24EEE023,Control Systems,59
+24EEE023,Power Electronics,77
+24EEE023,Measurements,52
+23MECH028,Thermodynamics,57
+23MECH028,Fluid Mechanics,82
+23MECH028,Machine Design,49
+23MECH028,Manufacturing,64
+23MECH028,Kinematics,63
+23CSE059,Data Structures,82
+23CSE059,DBMS,76
+23CSE059,Operating Systems,75
+23CSE059,Computer Networks,70
+23CSE059,Software Engineering,79
+24ECE048,Signals and Systems,62
+24ECE048,Analog Circuits,74
+24ECE048,Digital Electronics,54
+24ECE048,Microprocessors,61
+24ECE048,EM Waves,71
+25ECE051,Signals and Systems,64
+25ECE051,Analog Circuits,67
+25ECE051,Digital Electronics,65
+25ECE051,Microprocessors,62
+25ECE051,EM Waves,66
+23CSE060,Data Structures,67
+23CSE060,DBMS,72
+23CSE060,Operating Systems,73
+23CSE060,Computer Networks,73
+23CSE060,Software Engineering,64
+23EEE028,Power Systems,52
+23EEE028,Electrical Machines,52
+23EEE028,Control Systems,62
+23EEE028,Power Electronics,
+23EEE028,Measurements,43
+25CSE079,Data Structures,93
+25CSE079,DBMS,93
+25CSE079,Operating Systems,87
+25CSE079,Computer Networks,84
+25CSE079,Software Engineering,74
+25CSE080,Data Structures,42
+25CSE080,DBMS,59
+25CSE080,Operating Systems,66
+25CSE080,Computer Networks,54
+25CSE080,Software Engineering,46
+23MECH029,Thermodynamics,55
+23MECH029,Fluid Mechanics,74
+23MECH029,Machine Design,52
+23MECH029,Manufacturing,52
+23MECH029,Kinematics,51
+25CSE081,Data Structures,65
+25CSE081,DBMS,59
+25CSE081,Operating Systems,64
+25CSE081,Computer Networks,46
+25CSE081,Software Engineering,69
+24EEE024,Power Systems,47
+24EEE024,Electrical Machines,60
+24EEE024,Control Systems,59
+24EEE024,Power Electronics,73
+24EEE024,Measurements,55
+25MECH037,Thermodynamics,72
+25MECH037,Fluid Mechanics,59
+25MECH037,Machine Design,62
+25MECH037,Manufacturing,65
+25MECH037,Kinematics,60
+25ECE052,Signals and Systems,50
+25ECE052,Analog Circuits,52
+25ECE052,Digital Electronics,54
+25ECE052,Microprocessors,52
+25ECE052,EM Waves,56
+25CSE082,Data Structures,72
+25CSE082,DBMS,72
+25CSE082,Operating Systems,86
+25CSE082,Computer Networks,65
+25CSE082,Software Engineering,100
+23CSE061,Data Structures,41
+23CSE061,DBMS,41
+23CSE061,Operating Systems,46
+23CSE061,Computer Networks,41
+23CSE061,Software Engineering,35
+23CSE062,Data Structures,78
+23CSE062,DBMS,85
+23CSE062,Operating Systems,
+23CSE062,Computer Networks,71
+23CSE062,Software Engineering,67
+25CSE083,Data Structures,65
+25CSE083,DBMS,59
+25CSE083,Operating Systems,71
+25CSE083,Computer Networks,67
+25CSE083,Software Engineering,67
+23ECE041,Signals and Systems,95
+23ECE041,Analog Circuits,91
+23ECE041,Digital Electronics,92
+23ECE041,Microprocessors,83
+23ECE041,EM Waves,74
+24ECE049,Signals and Systems,75
+24ECE049,Analog Circuits,70
+24ECE049,Digital Electronics,79
+24ECE049,Microprocessors,70
+24ECE049,EM Waves,70
+23CSE063,Data Structures,62
+23CSE063,DBMS,65
+23CSE063,Operating Systems,65
+23CSE063,Computer Networks,74
+23CSE063,Software Engineering,69
+24EEE025,Power Systems,57
+24EEE025,Electrical Machines,57
+24EEE025,Control Systems,52
+24EEE025,Power Electronics,50
+24EEE025,Measurements,54
+23ECE042,Signals and Systems,51
+23ECE042,Analog Circuits,46
+23ECE042,Digital Electronics,55
+23ECE042,Microprocessors,60
+23ECE042,EM Waves,64
+23CSE064,Data Structures,66
+23CSE064,DBMS,45
+23CSE064,Operating Systems,52
+23CSE064,Computer Networks,58
+23CSE064,Software Engineering,63
+24CSE069,Data Structures,55
+24CSE069,DBMS,57
+24CSE069,Operating Systems,48
+24CSE069,Computer Networks,65
+24CSE069,Software Engineering,60
+25MECH038,Thermodynamics,63
+25MECH038,Fluid Mechanics,71
+25MECH038,Machine Design,73
+25MECH038,Manufacturing,69
+25MECH038,Kinematics,54
+24EEE026,Power Systems,74
+24EEE026,Electrical Machines,66
+24EEE026,Control Systems,50
+24EEE026,Power Electronics,67
+24EEE026,Measurements,74
+23MECH030,Thermodynamics,65
+23MECH030,Fluid Mechanics,75
+23MECH030,Machine Design,65
+23MECH030,Manufacturing,58
+23MECH030,Kinematics,78
+25ECE053,Signals and Systems,53
+25ECE053,Analog Circuits,60
+25ECE053,Digital Electronics,50
+25ECE053,Microprocessors,57
+25ECE053,EM Waves,64
+23EEE029,Power Systems,83
+23EEE029,Electrical Machines,93
+23EEE029,Control Systems,76
+23EEE029,Power Electronics,87
+23EEE029,Measurements,83
+25CSE084,Data Structures,74
+25CSE084,DBMS,73
+25CSE084,Operating Systems,64
+25CSE084,Computer Networks,70
+25CSE084,Software Engineering,58
+23CSE065,Data Structures,58
+23CSE065,DBMS,57
+23CSE065,Operating Systems,61
+23CSE065,Computer Networks,
+23CSE065,Software Engineering,30
+25ECE054,Signals and Systems,56
+25ECE054,Analog Circuits,44
+25ECE054,Digital Electronics,57
+25ECE054,Microprocessors,58
+25ECE054,EM Waves,47
+25MECH039,Thermodynamics,67
+25MECH039,Fluid Mechanics,75
+25MECH039,Machine Design,58
+25MECH039,Manufacturing,65
+25MECH039,Kinematics,69
+25MECH040,Thermodynamics,50
+25MECH040,Fluid Mechanics,59
+25MECH040,Machine Design,54
+25MECH040,Manufacturing,61
+25MECH040,Kinematics,64
+24MECH026,Thermodynamics,37
+24MECH026,Fluid Mechanics,39
+24MECH026,Machine Design,33
+24MECH026,Manufacturing,58
+24MECH026,Kinematics,49
+23CSE066,Data Structures,50
+23CSE066,DBMS,61
+23CSE066,Operating Systems,51
+23CSE066,Computer Networks,49
+23CSE066,Software Engineering,55
+23CSE067,Data Structures,56
+23CSE067,DBMS,50
+23CSE067,Operating Systems,49
+23CSE067,Computer Networks,46
+23CSE067,Software Engineering,47
+23CSE068,Data Structures,48
+23CSE068,DBMS,54
+23CSE068,Operating Systems,
+23CSE068,Computer Networks,50
+23CSE068,Software Engineering,56
+23ECE043,Signals and Systems,65
+23ECE043,Analog Circuits,53
+23ECE043,Digital Electronics,46
+23ECE043,Microprocessors,52
+23ECE043,EM Waves,61
+25CSE085,Data Structures,55
+25CSE085,DBMS,59
+25CSE085,Operating Systems,60
+25CSE085,Computer Networks,55
+25CSE085,Software Engineering,49
+24CSE070,Data Structures,60
+24CSE070,DBMS,59
+24CSE070,Operating Systems,63
+24CSE070,Computer Networks,76
+24CSE070,Software Engineering,66
+23CSE069,Data Structures,81
+23CSE069,DBMS,
+23CSE069,Operating Systems,73
+23CSE069,Computer Networks,80
+23CSE069,Software Engineering,73
+24EEE027,Power Systems,55
+24EEE027,Electrical Machines,38
+24EEE027,Control Systems,35
+24EEE027,Power Electronics,29
+24EEE027,Measurements,47
+23CSE070,Data Structures,48
+23CSE070,DBMS,48
+23CSE070,Operating Systems,44
+23CSE070,Computer Networks,52
+23CSE070,Software Engineering,49
+25ECE055,Signals and Systems,69
+25ECE055,Analog Circuits,63
+25ECE055,Digital Electronics,59
+25ECE055,Microprocessors,69
+25ECE055,EM Waves,59
+25CSE086,Data Structures,50
+25CSE086,DBMS,36
+25CSE086,Operating Systems,66
+25CSE086,Computer Networks,58
+25CSE086,Software Engineering,57
+24CSE071,Data Structures,59
+24CSE071,DBMS,66
+24CSE071,Operating Systems,68
+24CSE071,Computer Networks,54
+24CSE071,Software Engineering,54
+23ECE044,Signals and Systems,54
+23ECE044,Analog Circuits,60
+23ECE044,Digital Electronics,63
+23ECE044,Microprocessors,65
+23ECE044,EM Waves,59
+25CSE087,Data Structures,85
+25CSE087,DBMS,79
+25CSE087,Operating Systems,65
+25CSE087,Computer Networks,77
+25CSE087,Software Engineering,89
+24CSE072,Data Structures,74
+24CSE072,DBMS,70
+24CSE072,Operating Systems,75
+24CSE072,Computer Networks,77
+24CSE072,Software Engineering,79
+23ECE045,Signals and Systems,53
+23ECE045,Analog Circuits,42
+23ECE045,Digital Electronics,38
+23ECE045,Microprocessors,56
+23ECE045,EM Waves,45
+25CSE088,Data Structures,44
+25CSE088,DBMS,42
+25CSE088,Operating Systems,53
+25CSE088,Computer Networks,54
+25CSE088,Software Engineering,45
+24ECE050,Signals and Systems,77
+24ECE050,Analog Circuits,65
+24ECE050,Digital Electronics,68
+24ECE050,Microprocessors,66
+24ECE050,EM Waves,59
+24ECE051,Signals and Systems,72
+24ECE051,Analog Circuits,78
+24ECE051,Digital Electronics,58
+24ECE051,Microprocessors,71
+24ECE051,EM Waves,61
+24CSE073,Data Structures,51
+24CSE073,DBMS,57
+24CSE073,Operating Systems,60
+24CSE073,Computer Networks,75
+24CSE073,Software Engineering,76
+24ECE052,Signals and Systems,70
+24ECE052,Analog Circuits,67
+24ECE052,Digital Electronics,69
+24ECE052,Microprocessors,69
+24ECE052,EM Waves,84
+23CSE071,Data Structures,66
+23CSE071,DBMS,71
+23CSE071,Operating Systems,92
+23CSE071,Computer Networks,85
+23CSE071,Software Engineering,78
+23ECE046,Signals and Systems,55
+23ECE046,Analog Circuits,70
+23ECE046,Digital Electronics,63
+23ECE046,Microprocessors,71
+23ECE046,EM Waves,65
+25MECH041,Thermodynamics,58
+25MECH041,Fluid Mechanics,65
+25MECH041,Machine Design,64
+25MECH041,Manufacturing,62
+25MECH041,Kinematics,62
+24EEE028,Power Systems,70
+24EEE028,Electrical Machines,80
+24EEE028,Control Systems,
+24EEE028,Power Electronics,64
+24EEE028,Measurements,87
+23MECH031,Thermodynamics,59
+23MECH031,Fluid Mechanics,53
+23MECH031,Machine Design,51
+23MECH031,Manufacturing,50
+23MECH031,Kinematics,34
+25EEE023,Power Systems,62
+25EEE023,Electrical Machines,60
+25EEE023,Control Systems,58
+25EEE023,Power Electronics,68
+25EEE023,Measurements,40
+23ECE047,Signals and Systems,81
+23ECE047,Analog Circuits,66
+23ECE047,Digital Electronics,70
+23ECE047,Microprocessors,73
+23ECE047,EM Waves,74
+24EEE029,Power Systems,69
+24EEE029,Electrical Machines,89
+24EEE029,Control Systems,54
+24EEE029,Power Electronics,80
+24EEE029,Measurements,77
+23MECH032,Thermodynamics,69
+23MECH032,Fluid Mechanics,61
+23MECH032,Machine Design,55
+23MECH032,Manufacturing,57
+23MECH032,Kinematics,45
+24CSE074,Data Structures,70
+24CSE074,DBMS,50
+24CSE074,Operating Systems,49
+24CSE074,Computer Networks,58
+24CSE074,Software Engineering,53
+25CSE089,Data Structures,65
+25CSE089,DBMS,53
+25CSE089,Operating Systems,46
+25CSE089,Computer Networks,49
+25CSE089,Software Engineering,53
+23EEE030,Power Systems,67
+23EEE030,Electrical Machines,53
+23EEE030,Control Systems,47
+23EEE030,Power Electronics,66
+23EEE030,Measurements,60
+25CSE090,Data Structures,61
+25CSE090,DBMS,88
+25CSE090,Operating Systems,85
+25CSE090,Computer Networks,65
+25CSE090,Software Engineering,75
+23CSE072,Data Structures,64
+23CSE072,DBMS,74
+23CSE072,Operating Systems,67
+23CSE072,Computer Networks,60
+23CSE072,Software Engineering,76
+23EEE031,Power Systems,49
+23EEE031,Electrical Machines,33
+23EEE031,Control Systems,45
+23EEE031,Power Electronics,
+23EEE031,Measurements,47
+24ECE053,Signals and Systems,58
+24ECE053,Analog Circuits,73
+24ECE053,Digital Electronics,71
+24ECE053,Microprocessors,65
+24ECE053,EM Waves,72
+23MECH033,Thermodynamics,72
+23MECH033,Fluid Mechanics,72
+23MECH033,Machine Design,61
+23MECH033,Manufacturing,64
+23MECH033,Kinematics,69
+24MECH027,Thermodynamics,86
+24MECH027,Fluid Mechanics,90
+24MECH027,Machine Design,79
+24MECH027,Manufacturing,73
+24MECH027,Kinematics,58
+25ECE056,Signals and Systems,30
+25ECE056,Analog Circuits,45
+25ECE056,Digital Electronics,36
+25ECE056,Microprocessors,30
+25ECE056,EM Waves,27
+23EEE032,Power Systems,72
+23EEE032,Electrical Machines,71
+23EEE032,Control Systems,72
+23EEE032,Power Electronics,88
+23EEE032,Measurements,60
+24CSE075,Data Structures,83
+24CSE075,DBMS,71
+24CSE075,Operating Systems,67
+24CSE075,Computer Networks,70
+24CSE075,Software Engineering,78
+25EEE024,Power Systems,83
+25EEE024,Electrical Machines,69
+25EEE024,Control Systems,73
+25EEE024,Power Electronics,61
+25EEE024,Measurements,86
+23MECH034,Thermodynamics,52
+23MECH034,Fluid Mechanics,46
+23MECH034,Machine Design,57
+23MECH034,Manufacturing,57
+23MECH034,Kinematics,61
+23ECE048,Signals and Systems,70
+23ECE048,Analog Circuits,69
+23ECE048,Digital Electronics,75
+23ECE048,Microprocessors,67
+23ECE048,EM Waves,79
+25CSE091,Data Structures,60
+25CSE091,DBMS,47
+25CSE091,Operating Systems,
+25CSE091,Computer Networks,66
+25CSE091,Software Engineering,66
+25ECE057,Signals and Systems,85
+25ECE057,Analog Circuits,78
+25ECE057,Digital Electronics,88
+25ECE057,Microprocessors,98
+25ECE057,EM Waves,77
+25CSE092,Data Structures,46
+25CSE092,DBMS,70
+25CSE092,Operating Systems,76
+25CSE092,Computer Networks,61
+25CSE092,Software Engineering,71
+24CSE076,Data Structures,74
+24CSE076,DBMS,60
+24CSE076,Operating Systems,78
+24CSE076,Computer Networks,60
+24CSE076,Software Engineering,78
+24MECH028,Thermodynamics,44
+24MECH028,Fluid Mechanics,63
+24MECH028,Machine Design,49
+24MECH028,Manufacturing,60
+24MECH028,Kinematics,62
+23ECE049,Signals and Systems,36
+23ECE049,Analog Circuits,47
+23ECE049,Digital Electronics,37
+23ECE049,Microprocessors,52
+23ECE049,EM Waves,39
+25MECH042,Thermodynamics,57
+25MECH042,Fluid Mechanics,73
+25MECH042,Machine Design,56
+25MECH042,Manufacturing,63
+25MECH042,Kinematics,62
+25MECH043,Thermodynamics,60
+25MECH043,Fluid Mechanics,79
+25MECH043,Machine Design,60
+25MECH043,Manufacturing,69
+25MECH043,Kinematics,48
+24CSE077,Data Structures,63
+24CSE077,DBMS,71
+24CSE077,Operating Systems,66
+24CSE077,Computer Networks,79
+24CSE077,Software Engineering,71
+23EEE033,Power Systems,64
+23EEE033,Electrical Machines,55
+23EEE033,Control Systems,49
+23EEE033,Power Electronics,60
+23EEE033,Measurements,
+24CSE078,Data Structures,74
+24CSE078,DBMS,67
+24CSE078,Operating Systems,59
+24CSE078,Computer Networks,77
+24CSE078,Software Engineering,66
+25MECH044,Thermodynamics,59
+25MECH044,Fluid Mechanics,67
+25MECH044,Machine Design,61
+25MECH044,Manufacturing,67
+25MECH044,Kinematics,64
+25CSE093,Data Structures,76
+25CSE093,DBMS,54
+25CSE093,Operating Systems,69
+25CSE093,Computer Networks,74
+25CSE093,Software Engineering,59
+25CSE094,Data Structures,67
+25CSE094,DBMS,59
+25CSE094,Operating Systems,61
+25CSE094,Computer Networks,53
+25CSE094,Software Engineering,59
+23ECE050,Signals and Systems,87
+23ECE050,Analog Circuits,84
+23ECE050,Digital Electronics,86
+23ECE050,Microprocessors,96
+23ECE050,EM Waves,83
+23CSE073,Data Structures,79
+23CSE073,DBMS,68
+23CSE073,Operating Systems,
+23CSE073,Computer Networks,68
+23CSE073,Software Engineering,76
+24EEE030,Power Systems,70
+24EEE030,Electrical Machines,66
+24EEE030,Control Systems,52
+24EEE030,Power Electronics,55
+24EEE030,Measurements,74
+23CSE074,Data Structures,76
+23CSE074,DBMS,55
+23CSE074,Operating Systems,64
+23CSE074,Computer Networks,61
+23CSE074,Software Engineering,63
+25MECH045,Thermodynamics,91
+25MECH045,Fluid Mechanics,98
+25MECH045,Machine Design,85
+25MECH045,Manufacturing,83
+25MECH045,Kinematics,81
