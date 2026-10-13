@@ -170,18 +170,43 @@ def segments(request):
     return JsonResponse({"segments": out})
 
 
+
 @require_GET
 def data_report(request):
     run = _latest_run()
+
     if not run:
-        return JsonResponse({"empty": True})
+        from .analytics.ingest import SOURCE_FILES
+
+        return JsonResponse({
+            "empty": True,
+            "updated_at": None,
+            "sources": [
+                {
+                    "key": key,
+                    "file": details[0],
+                    "system": details[1],
+                    "rows_in": 0,
+                    "rows_used": 0,
+                    "fixes": [],
+                    "unmatched_count": 0,
+                    "unmatched_ids": [],
+                }
+                for key, details in SOURCE_FILES.items()
+            ],
+            "models": [],
+            "alumni_rows": 0,
+            "students": Student.objects.count(),
+        })
+
     return JsonResponse({
         "updated_at": run.created_at.isoformat(),
         "sources": run.report.get("sources", []),
         "models": run.summary.get("models", []),
-        "alumni_rows": run.summary.get("alumni_rows"),
+        "alumni_rows": run.summary.get("alumni_rows", 0),
         "students": Student.objects.count(),
     })
+
 
 
 # Dev-friendly endpoints for refreshing data from the UI. No auth on purpose
