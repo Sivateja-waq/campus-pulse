@@ -23,8 +23,46 @@ export default function DataSources() {
     }
   };
 
-  if (loading && !data) return <Loading what="data report" />;
-  if (error) return <ErrorNote error={error} />;
+  
+if (loading && !data) return <Loading what="data report" />;
+if (error) return <ErrorNote error={error} />;
+
+if (data?.empty) {
+  return (
+    <div className="page">
+      <header className="page-head">
+        <h1>Data sources</h1>
+        <p className="lede">
+          No data pipeline has run yet. Upload the required CSV files to get started.
+        </p>
+        <button
+          className="btn"
+          disabled={busy}
+          onClick={() =>
+            act(api.rerun, r =>
+              `Recalculated scores for ${r.students_processed.toLocaleString()} students.`
+            )
+          }
+        >
+          {busy ? "Working..." : "Recalculate scores"}
+        </button>
+        {message && (
+          <p className={message.ok ? "ok-note" : "error-note"}>
+            {message.text}
+          </p>
+        )}
+      </header>
+      <section className="panel">
+        <h2>No data available yet</h2>
+        <p>
+          Upload controls will appear when the backend provides the source list.
+          The backend currently has no pipeline report.
+        </p>
+      </section>
+    </div>
+  );
+}
+
 
   return (
     <div className="page">
