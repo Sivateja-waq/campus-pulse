@@ -1,5 +1,5 @@
 async function request(path, options = {}) {
-  const res = await fetch(`/api${path}`, options);
+  const res = await fetch(`https://campus-pulse-wf29.onrender.com/api${path}`, options);
   const body = await res.json().catch(() => ({}));
   if (!res.ok) throw new Error(body.error || `Request failed (${res.status})`);
   return body;
