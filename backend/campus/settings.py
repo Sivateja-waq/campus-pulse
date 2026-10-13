@@ -14,10 +14,12 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    "corsheaders",
     "students",
 ]
 
 MIDDLEWARE = [
+    "corsheaders.middleware.CorsMiddleware",
     "django.middleware.security.SecurityMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
@@ -62,3 +64,6 @@ DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 # where the raw exports from each campus system live
 RAW_DATA_DIR = BASE_DIR / "data" / "raw"
+CORS_ALLOWED_ORIGINS = [
+    "https://campus-pulse-frontend.onrender.com",
+]
